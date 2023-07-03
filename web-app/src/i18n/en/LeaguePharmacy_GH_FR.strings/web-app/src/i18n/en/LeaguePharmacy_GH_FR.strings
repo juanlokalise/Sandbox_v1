@@ -947,10 +947,6 @@
 "ios-pharmacy.your.credit.card.will.be.char.2738315" = "Votre carte de crédit sera débitée lorsque vous ramasserez vos ordonnances.";
 /* Refill Renewal Review: Title for payment method section when a new card has been added. */
 "ios-pharmacy.your.credit.card.will.be.char.cc1889e" = "Votre carte de crédit sera débitée lorsque vous ramasserez vos ordonnances. Si votre couverture d’assurance figure dans votre dossier à la pharmacie, elle sera prise en compte dans le coût final de vos médicaments.";
-/* Request Refill Success: Title for payment method section when a new card has been added. */
-"ios-pharmacy.your.credit.card.will.be.char.fbd39b6" = "Votre carte de crédit sera débitée lorsque vous ramasserez vos ordonnances. Si votre couverture d’assurance figure dans votre dossier à la pharmacie, elle sera prise en compte dans le coût final de vos médicaments.";
-/* Request Refill Success: Title for payment method section when auto pay is enabled. */
-"ios-pharmacy.your.credit.card.will.be.char.fd424fe" = "Votre carte de crédit sera débitée lorsque vous ramasserez vos ordonnances.";
 /* Request Refill Success: Title for automatic payment promotion section. */
 "ios-pharmacy.automatic.payment.6a9d273" = "Paiement automatique";
 /* DRx Automatic Payment registration title */
@@ -999,3 +995,7 @@
 "ios-pharmacy.prior.to.pickup.your.pharmaci.7ba88bd" = "Avant le ramassage, votre pharmacien vous appellera pour vous conseiller sur la façon d'utiliser vos médicaments de manière sécuritaire et efficace.";
 /* Automatic payment setup how it works footnote */
 "ios-pharmacy.by.completing.the.automatic.p.1056bd9" = "*En procédant à la configuration du paiement automatique, j’accepte de m’inscrire pour les paiements automatiques et je consens à être facturé pour mes ordonnances de la manière définie dans la section « Fonctionnement ».<br /><br />Vous pouvez vous désabonner de ce service en tout temps sous <b>Compte > Paramètres du compte</b>.";
+/* Request Refill Success: Title for payment method section when a new card has been added. */
+"ios-pharmacy.credit.cards.are.charged.at.p.a31aa9f" = "Les cartes de crédit sont débitées lors du ramassage. Les cartes de débit sont débitées lorsque l’ordonnance est exécutée. Si votre couverture d’assurance figure dans votre dossier à la pharmacie, elle sera prise en compte dans le coût final de vos médicaments.";
+/* Request Refill Success: Title for payment method section when auto pay is enabled. */
+"ios-pharmacy.credit.cards.are.charged.at.p.aa40d92" = "Les cartes de crédit sont débitées lors du ramassage. Les cartes de débit sont débitées lorsque l’ordonnance est exécutée.";
