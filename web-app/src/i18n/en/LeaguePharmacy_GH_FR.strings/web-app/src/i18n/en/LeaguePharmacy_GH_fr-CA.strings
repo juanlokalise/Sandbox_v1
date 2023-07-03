@@ -20,7 +20,6 @@
 "ios-pharmacy.archive.prescription.13fa5fa" = "Archiver l'ordonnance";
 /* Prompt user to archive presciption. */
 "ios-pharmacy.archive.prescription.66c9d10" = "Archiver l'ordonnance";
-
 /* Title for remove pharmacy confirmation */
 "ios-pharmacy.are.you.sure.you.want.to.remo.0069169" = "Voulez-vous vraiment retirer cette pharmacie?";
 /* Text for toggle to auto refill presciption title line */
@@ -839,7 +838,9 @@
 /* Description for Auto Refill learn more popup */
 "ios-pharmacy.with.this.complimentary.servi.63bd8fa" = "Avec ce service gratuit, nous renouvellerons automatiquement tous vos médicaments d’entretien ou pris sur une longue période à temps pour que vous puissiez les ramasser avant d’en manquer. Lorsqu’une ordonnance est prête à être ramassée, votre pharmacie vous avisera par courriel ou par message texte. Toute nouvelle ordonnance admissible ajoutée à votre profil de pharmacie sera automatiquement inscrite au renouvellement automatique.<br><br>Pour activer la fonction de renouvellement automatique, vous devez activer les notifications.";
 /* Message for alert popup to unlink pharmacy account */
-"ios-pharmacy.you.ll.need.to.reconnect.your.ae470c0" = "Vous devrez reconnecter votre compte à nouveau si vous souhaitez gérer vos ordonnances à l'aide de PC Santé à l'avenir. \n\nÊtes-vous sûr de vouloir vous déconnecter?";
+"ios-pharmacy.you.ll.need.to.reconnect.your.ae470c0" = "Vous devrez reconnecter votre compte à nouveau si vous souhaitez gérer vos ordonnances à l'aide de PC Santé à l'avenir. \
+\
+Êtes-vous sûr de vouloir vous déconnecter?";
 /* Status for closed store availability */
 "ios-pharmacy.closed.050b388" = "FERMÉ";
 /* Status for open store availability */
