@@ -7,5 +7,5 @@
         "special_placeholder": "Lokalise also supports certain \"special\" placeholders:\n\n%  – will be automatically exported as %%  for printf and iOS placeholder formats if the string contains at least one placeholder (will be exported as %  otherwise).\n\n[VOID]  – this placeholder simply means \"translation is absent\" and it will be exported as an empty string. However, it will be counted as \"translated\" on Lokalise. This placeholder can come in handy when you do not have a proper translation yet but you want to pretend that it is actually present.\n\nPlease note that translations with the [VOID] value won't be saved to the translation memory.\n\n[TRUE], [FALSE] – these placeholders will be exported as platform-specific boolean values.\n\nPlease note that [VOID], [TRUE], and [FALSE] placeholders should be the only text in a given translation. For example, This sentence is [FALSE] is incorrect usage of the [FALSE] placeholder and will be simply exported as a plain text."
     },
     "[VOID]": "",
-    "Juankey": "The quick brown fox jumped over the lazy dog."
+    "AOmar": "The quick brown fox jumped over the lazy dog."
 }
