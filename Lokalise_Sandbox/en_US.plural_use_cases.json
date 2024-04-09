@@ -20,6 +20,6 @@
         "translation": "- Once a translation has been marked as reviewed, you cannot resend that language pair to the reviewer.\n- Keys marked as \"hidden from contributors\" are shown to reviewers in the RC.\n- Translations marked as reviewed in the RC cannot be changed to unreviewed.\n- You can only invite users that are NOT part of the team. The error message only indicates contributors.\n- If a key is deleted and it also exists in the RC, it will be removed from the RC.\n- Keys using the 'translatable:false' custom attribute can still be pushed to the RC.\n- RC instances are per user.\n- RC activity logs are non-existent"
     },
     "Juankey": {
-        "translation": "The quick brown fox jumped over the lazy dog."
+        "translation": "The quick brown fox jumped over the lazy dog"
     }
 }
