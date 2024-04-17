@@ -1,11 +1,11 @@
 {
-    "Howdy": "",
-    "Hi": "",
     "Hello %s, how are you today? How was your %s.": "",
     "lokalise_placeholders": {
         "universal_placeholders": "",
         "special_placeholder": ""
     },
     "[VOID]": "",
-    "Juankey": ""
+    "Translation_Memory_Limitations": "",
+    "Review_Center": "- Una vez que una traducción ha sido marcada como revisada, no puedes reenviar ese par de idiomas al revisor.\n - Las claves marcadas como \"ocultas para los contribuyentes\" se muestran a los revisores en el RC.\n - Las traducciones marcadas como revisadas en el RC no se pueden cambiar a no revisadas.\n - Sólo puedes invitar a usuarios que NO sean parte del equipo. El mensaje de error solo indica contribuyentes.\n - Si se elimina una clave y también existe en el RC, se eliminará del RC.\n - Las claves que utilizan el atributo personalizado 'traducible:falso' aún se pueden enviar al RC.\n - Las instancias RC son por usuario.\n - Los registros de actividad de RC son inexistentes.",
+    "Juankey": "El rápido zorro marrón saltó sobre el perro perezoso y quito la corona."
 }
