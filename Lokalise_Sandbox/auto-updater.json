@@ -5,5 +5,7 @@
     "up-to-date-description": "You have the latest version {{currentVersion}}.",
     "install": "Install",
     "later": "Later",
-    "done": "Done"
+    "done": "Done",
+    "downloading-tooltip": "",
+    "install-tooltip": ""
 }
