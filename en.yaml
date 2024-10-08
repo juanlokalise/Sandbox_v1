@@ -937,8 +937,7 @@ accountCreation:
         content: "We’ve compiled a list of our top Coaches based on your WPM results.<br><br> After you finish your account set up, we’re taking in the insights from your strengths and growth areas, to find you a top coach from our global network."
         basics:
           title: "Let’s cover some basics"
-          firstNameLabel: "<abbr title=\"required\" aria-hidden=\"true\">*</abbr> First
-      name"
+          firstNameLabel: "<abbr title=\"required\" aria-hidden=\"true\">*</abbr> First      name"
           lastNameLabel: "<abbr title=\"required\" aria-hidden=\"true\">*</abbr> Last name"
           coachingLanguageLabel: "Preferred coaching language"
           timezoneLabel: "Your time zone"
