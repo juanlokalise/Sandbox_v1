@@ -1,0 +1,10 @@
+{
+    "household": {
+        "next_navigator": {
+            "description": {
+                "two": "{{first_name}} has been added to your household.",
+                "one": "Now, let’s add the rest of your household."
+            }
+        }
+    }
+}
