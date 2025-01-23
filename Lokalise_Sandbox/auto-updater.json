@@ -1,9 +1,0 @@
-{
-    "update-available": "Update Available",
-    "update-available-description": "The new version {{nextVersion}} is available. Your current version is {{currentVersion}}.",
-    "up-to-date": "Up To Date",
-    "up-to-date-description": "You have the latest version {{currentVersion}}.",
-    "install": "Install",
-    "later": "Later",
-    "done": "Done"
-}
