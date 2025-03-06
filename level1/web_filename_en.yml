@@ -1,0 +1,7 @@
+---
+en:
+  Key_added_before_workflow. Edit will follow: This translation is here before the
+    workflow. THIS WAS ADDED AFTER THE WF WAS CREATED.
+  Key_added_before_workflow_no_edit: This translations was added before the workflow.
+    No edits will follow.
+...
