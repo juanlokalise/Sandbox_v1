@@ -1,0 +1,34 @@
+---
+en:
+  accountCreation:
+    breather:
+      continueButton: Continue
+    planIntro:
+      title: Hey {name}, let’s start building your weekly practice
+      body: Your growth is important, and we want to get it right. To give you the
+        best experience, we would love to get to know you better.
+    confirm:
+      title: Find your greatness as a leader with BetterUp®
+      description: With a dedicated coach and a custom plan, you’ll be ready to navigate
+        challenges, inspire your team, and show up as your best self in work and life.
+      heading: Create an account
+      labelEmail: Email
+      labelPassword: Set your password
+      passwordHint: 8 character minimum with a mix of numbers, uppercase, and lowercase
+        letters
+      termsAndConditionsLabel: 'By checking this box you agree to the
+        <a href="https://www.betterup.co/en-us/acceptable-use-policy" target="_blank"
+        rel="noopener noreferrer" class="underline">Acceptable Use Policy</a> and
+        consent to the processing of personal information you choose to provide, which
+        may include health-related or other sensitive personal information (as defined
+        under applicable law), in accordance with the BetterUp <a href="https://www.betterup.co/privacy"
+        class="underline" target="_blank" rel="noopener noreferrer">Privacy Policy</a>'
+      termsAndConditionsPrivacyLabel: By checking this box you consent to your data
+        being used to receive tailored experiences using AI-enabled technologies,
+        which may also be used to provide and improve certain features and aspects
+        of the services
+      termsAndConditionsAiRequiredPrivacyLabel: By checking this box you agree your
+        data will be used to receive tailored experiences using AI-enabled technologies,
+        which may also be used to provide and improve certain features and aspects
+        of the services
+...
