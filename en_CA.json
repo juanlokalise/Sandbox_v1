@@ -1,0 +1,1390 @@
+{
+    "prize": {
+        "201": {
+            "alt": "",
+            "name": "Game Stamp Code"
+        },
+        "300": {
+            "name": "$50 Cash!<span class='superscript'>^<\/span>",
+            "alt": ""
+        },
+        "301": {
+            "name": "$100 Cash!<span class='superscript'>^<\/span>",
+            "alt": ""
+        },
+        "302": {
+            "name": "$500 Cash!<span class='superscript'>^<\/span>",
+            "alt": ""
+        },
+        "303": {
+            "name": "$15,000 Cash prize!<span class='superscript'>^<\/span>",
+            "alt": ""
+        },
+        "304": {
+            "name": "$50 Walmart Gift Card",
+            "alt": ""
+        },
+        "305": {
+            "name": "$35 Vasanti Cosmetics eGift Code",
+            "alt": ""
+        },
+        "306": {
+            "name": "$25 TropicalTree.com eGift Code",
+            "alt": ""
+        },
+        "307": {
+            "name": "$25 Skip Gift Card",
+            "alt": ""
+        },
+        "308": {
+            "name": "$25 Skip Gift Code",
+            "alt": ""
+        },
+        "309": {
+            "name": "$25 Skip Gift Code",
+            "alt": ""
+        },
+        "310": {
+            "name": "One-Year Subscription to Paramount+",
+            "alt": ""
+        },
+        "311": {
+            "name": "Journey for 2 with VIA Rail",
+            "alt": "Via Rail Canada"
+        },
+        "312": {
+            "name": "500 MyM<span class=\"subscript\">c<\/span>Donald's Rewards Points",
+            "alt": ""
+        },
+        "313": {
+            "name": "1,000 MyM<span class=\"subscript\">c<\/span>Donald's Rewards Points",
+            "alt": ""
+        },
+        "314": {
+            "name": "2,000 MyM<span class=\"subscript\">c<\/span>Donald's Rewards Points",
+            "alt": ""
+        },
+        "315": {
+            "name": "4,000 MyM<span class=\"subscript\">c<\/span>Donald's Rewards Points",
+            "alt": ""
+        },
+        "316": {
+            "name": "6,000 MyM<span class=\"subscript\">c<\/span>Donald's Rewards Points",
+            "alt": ""
+        },
+        "317": {
+            "name": "10,000 MyM<span class=\"subscript\">c<\/span>Donald's Rewards Points",
+            "alt": ""
+        },
+        "318": {
+            "name": "14,000 MyM<span class=\"subscript\">c<\/span>Donald's Rewards Points",
+            "alt": ""
+        },
+        "319": {
+            "name": "Baked Apple Pie",
+            "alt": ""
+        },
+        "320": {
+            "name": "Small Fountain Drink",
+            "alt": ""
+        },
+        "321": {
+            "name": "Cheeseburger",
+            "alt": ""
+        },
+        "322": {
+            "name": "Small Fries",
+            "alt": ""
+        },
+        "323": {
+            "name": "Small Hot M<span class=\"subscript\">c<\/span>Café<sup>®<\/sup> Beverage",
+            "alt": ""
+        },
+        "324": {
+            "name": "Sandwich (limited selection<sup>*<\/sup>)",
+            "alt": ""
+        },
+        "325": {
+            "name": "2000 points with 5 codes entered - First",
+            "alt": ""
+        },
+        "326": {
+            "name": "2000 points with 5 codes entered - Second",
+            "alt": ""
+        },
+        "327": {
+            "name": "2000 points with 5 codes entered - Third",
+            "alt": ""
+        },
+        "328": {
+            "name": "2000 points with 5 codes entered - Fourth",
+            "alt": ""
+        },
+        "329": {
+            "name": "2000 points with 5 codes entered - Fifth and Final",
+            "alt": ""
+        }
+    },
+    "menu-item": {
+        "mccafe-coffee": "McCafé<sup>®<\/sup> Premium Roast Coffee <abbr title=\"Medium, Large and Extra Large\">(M,&nbsp;L,&nbsp;&&nbsp;XL)<\/abbr>",
+        "mccafe-tea": "McCafé<sup>®<\/sup> Premium Tea<br\/><abbr title=\"Medium, Large and Extra Large\">(M,&nbsp;L,&nbsp;&&nbsp;XL)<\/abbr>",
+        "mccafe-mocha": "McCafé<sup>®<\/sup> Mocha<br\/><abbr title=\"Medium and Large\">(M&nbsp;&&nbsp;L)<\/abbr>",
+        "mccafe-latte": "McCafé<sup>®<\/sup> Latte<br\/><abbr title=\"Medium and Large\">(M&nbsp;&&nbsp;L)<\/abbr>",
+        "mccafe-cappuccino": "McCafé<sup>®<\/sup> Cappuccino<br\/><abbr title=\"Medium and Large\">(M&nbsp;&&nbsp;L)<\/abbr>",
+        "mccafe-americano": "McCafé<sup>®<\/sup> Americano<br\/><abbr title=\"Medium and Large\">(M&nbsp;&&nbsp;L)<\/abbr>",
+        "hot-chocolate": "McCafé<sup>®<\/sup> Hot Chocolate<br\/><abbr title=\"Medium and Large\">(M&nbsp;&&nbsp;L)<\/abbr>",
+        "fountain-drinks": "Fountain Drinks<br\/><abbr title=\"Medium and Large\">(M&nbsp;&&nbsp;L)<\/abbr>",
+        "thick-shake": "Triple Thick Milkshake<sup>®<\/sup><br\/><abbr title=\"Medium and Large\">(M&nbsp;&&nbsp;L)<\/abbr>",
+        "big-mac": "Big Mac<sup>®<\/sup>",
+        "mcnuggets-10": "10-piece Chicken McNuggets<sup>®<\/sup>",
+        "hash-brown": "Hash Brown",
+        "title": "Participating<br\/> Menu items",
+        "content": "The following menu items carry Game Stamps, while supplies last.",
+        "large-fries": "Large Fries",
+        "medium-fries": "Medium Fries",
+        "medium-fries-alt": "",
+        "large-fries-alt": "",
+        "hash-brown-alt": "",
+        "mcnuggets-10-alt": "",
+        "big-mac-alt": "",
+        "thick-shake-alt": "",
+        "fountain-drinks-alt": "",
+        "hot-chocolate-alt": "",
+        "mccafe-americano-alt": "",
+        "mccafe-cappuccino-alt": "",
+        "mccafe-latte-alt": "",
+        "mccafe-mocha-alt": "",
+        "mccafe-tea-alt": "",
+        "mccafe-coffee-alt": ""
+    },
+    "skip-links": {
+        "skip-to-menu": "Skip to Main Content",
+        "skip-to-footer": "Skip to Footer",
+        "skip-to-stamp": "Skip to Game Stamp Code Entry"
+    },
+    "header": {
+        "m-logo-alt": "McDonald's",
+        "promo-logo-alt": "Want Prize With That",
+        "via-rail-logo-alt": "VIA Rail Canada",
+        "walmart-50-logo-alt": "$50 Walmart gift card",
+        "skip-gift-card-logo-alt": "$25 Skip Gift Code",
+        "cash-100-alt": "100$ Cash^",
+        "mcdo-fries-alt": "McDonalds Fries"
+    },
+    "menu": {
+        "language-tag": "Language:",
+        "title": "Menu",
+        "close-button-text": "Close Menu",
+        "nav": {
+            "home": "Home",
+            "account": "My Game Account",
+            "prizes": "Available Prizes",
+            "how-to-claim": "How to Claim Prizes",
+            "menu-items": "Participating Menu Items",
+            "rules": "Official Rules",
+            "faqs": "<abbr title=\"Frequently Asked Questions\">FAQs<\/abbr>"
+        },
+        "language": " <u>Français<\/u>",
+        "close-button": {
+            "aria-label": "Close Menu"
+        }
+    },
+    "action-bar": {
+        "aria-label": "primary",
+        "home-link-text": "Home",
+        "add-code-link-text": "Scan Code",
+        "claim-link-text": "Claim Prize"
+    },
+    "footer": {
+        "rules": {
+            "aria-label": "Official Rules and McDonald’s Links",
+            "title": "Rules & FAQ<span class='subscript'>s<\/span>",
+            "rules": "Want Prize With That?™ Official Rules"
+        },
+        "links": {
+            "title": "About M<span class='subscript'>c<\/span>Donald's",
+            "mcd": "McDonalds.ca",
+            "mcd-link": "https:\/\/www.mcdonalds.com\/ca\/en-ca.html",
+            "accessibility": "Digital Accessibility",
+            "accessibility-link": "https:\/\/www.mcdonalds.com\/ca\/en-ca\/accessibility.html",
+            "terms": "Terms & Conditions",
+            "terms-link": "https:\/\/www.mcdonalds.com\/ca\/en-ca\/terms-and-conditions\/loyaltyrewards.html",
+            "privacy": "Privacy Policy",
+            "privacy-link": "https:\/\/www.mcdonalds.com\/ca\/en-ca\/privacy.html",
+            "faqs": "Want Prize With That?™ <abbr title=\"Frequently Asked Questions\">FAQs<\/abbr>"
+        },
+        "social": {
+            "aria-label": "Connect-Social",
+            "facebook-alt": "Facebook",
+            "facebook-link": "https:\/\/www.facebook.com\/McDonaldsCanada",
+            "twitter-alt": "X",
+            "twitter-link": "https:\/\/twitter.com\/McDonaldsCanada",
+            "youtube-alt": "Youtube",
+            "youtube-link": "https:\/\/www.youtube.com\/user\/McDonaldsCanada",
+            "instagram-alt": "Instagram",
+            "instagram-link": "https:\/\/www.instagram.com\/mcdonaldscanada\/",
+            "snapchat-alt": "Snapchat",
+            "snapchat-link": "https:\/\/www.snapchat.com\/add\/mcdonaldscanada",
+            "pinterest-alt": "Pinterest",
+            "pinterest-link": "https:\/\/www.pinterest.ca\/mcdonaldscanada\/"
+        },
+        "legal": {
+            "aria-label": "Legal Disclaimer",
+            "title": "Legal Disclaimer",
+            "2": "^Cash prizes payable by cheque. Final weekly $15k CAD cash prize randomly seeded between Feb. 25-Mar. 3\/25.",
+            "4": "©  2025 McDonald’s All Rights Reserved.\nAll other trademarks and logos are the property of their respective owners and used with permission.",
+            "5": "No Prize Partners are sponsors or co-sponsors of the Game. Prize Partners are only responsible for the Prize offer(s) they provide, and none are responsible for the promotion, administration or execution of the Game.",
+            "sitemap": "Sitemap",
+            "1-2": "mcdonalds.ca",
+            "1-2-link": "https:\/\/www.mcdonalds.com\/ca\/en-ca.html",
+            "1-3": "or in-app for details. App download & registration rqd.",
+            "1": "*No purchase required. Open to residents of Canada. Must be MyMcDonald’s Rewards member 14 years+ using compatible iOS\/Android device & McDonald’s app to play for\/claim prizes. Correct answer to skill-testing question required. Codes available Feb. 4 – March 3\/25 on select McDonald’s food while supplies last; deadline to scan\/enter Codes in McDonald’s app is 11:59:59 p.m. local time on March 24\/25, and prizes will go unawarded if not won, except for the weekly $15k CAD cash prize. Cash prizes payable by cheque. Limit 10 Code entries\/day in Eastern Time. Chances of winning based on time of Code entry, mostly food and MyMcDonald’s Rewards points prizes. Prizes diminish during the promotion. Free subscription prize requires credit card on file to redeem. Scan\/enter 5 Codes to receive 2,000 MyMcDonald’s Rewards points up to 5 times per McDonald’s app account during the promotion. Eligibility, entry, odds and prize details in Official Rules in McDonald’s app and at participating McDonald’s restaurants in Canada."
+        },
+        "email": {
+            "top-content": "Questions? Visit the Contact Us form at the bottom of the Want PRIZE With That?™ FAQs page within the McDonald's app.  ",
+            "title": "About McDonald's",
+            "list-item": "<ul>\n<li><u>McDonalds.ca<\/u> <\/li>\n<li><u>Digital Accessibility<\/u> <\/li>\n<li><u>Terms & Conditions<\/u> <\/li>\n<li><u>Privacy Policy<\/u> <\/li>\n<\/ul>",
+            "list-item-url-1": "https:\/\/www.mcdonalds.com\/ca\/en-ca.html",
+            "list-item-url-2": "https:\/\/www.mcdonalds.com\/ca\/en-ca\/accessibility.html",
+            "list-item-url-3": "https:\/\/www.mcdonalds.com\/ca\/en-ca\/terms-and-conditions\/loyaltyrewards.html",
+            "list-item-url-4": "https:\/\/www.mcdonalds.com\/ca\/en-ca\/privacy.html",
+            "content-1": "You are receiving this email because you, or your minor, have registered for the 2025 Want PRIZE with That??™ Game at McDonald’s. If you would like to opt out of receiving marketing communications from McDonald’s Canada, you can contact:<br\/>\n\nPrivacy Manager<br\/>\nMcDonald's Restaurants of Canada Ltd.<br\/>\n1 McDonald’s Place, Toronto, ON M3C 3L4<br\/>\nEmail: <u>privacymanager@ca.mcd.com<\/u> <br\/>\n\nYou may still receive Want PRIZE with That??™ Game-related communications. ",
+            "content-1-url": "privacymanager@ca.mcd.com",
+            "content-2": " *No purchase required. Open to residents of Canada. Must be MyMcDonald’s Rewards member 14 years+ using compatible iOS\/Android device & McDonald’s app to play for\/claim prizes. Correct answer to skill-testing question required. Codes available Feb. 4 – March 3\/25 on select McDonald’s food while supplies last; deadline to scan\/enter Codes in McDonald’s app is 11:59:59 p.m. local time on March 24\/25, and prizes will go unawarded if not won, except for the weekly $15k CAD cash prize. Cash prizes payable by cheque. Limit 10 Code entries\/day in Eastern Time. Chances of winning based on time of Code entry, mostly food and MyMcDonald’s Rewards points prizes. Prizes diminish during the promotion. Free subscription prize requires credit card on file to redeem. Scan\/enter 5 Codes to receive 2,000 MyMcDonald’s Rewards points up to 5 times per McDonald’s app account during the promotion. Eligibility, entry, odds and prize details in Official Rules in McDonald’s app and at participating McDonald’s restaurants in Canada. <br\/>\n\n^Cash prizes are payable by cheque.",
+            "content-copyright": "© 2025 McDonald’s All Rights Reserved. ",
+            "content-bottom-content": "No Prize Partners are sponsors or co-sponsors of the Game. Prize Partners are only responsible for the Prize offer(s) they provide, and none are responsible for the promotion, administration or execution of the Game."
+        }
+    },
+    "home": {
+        "hero-default": {
+            "title": "Hi, {name}!",
+            "subtitle": "<span class='superscript'>$<\/span><span class='xl'>15,000<\/span><br\/>Weekly<br\/>Cash Prize!<span class='superscript'>^<\/span>",
+            "button-text-scan-code": "Scan Code",
+            "button-text-home": "Home",
+            "button-text-claim-prize": "Claim Prize",
+            "content": "Week 1 Winner:\n{name}\n{location}<br\/>\n\nWeek 2 Winner:\n{name}\n{location}<br\/>\n\nWeek 3 Winner:\nTo be announced\n{date}<br\/>\n\nWeek 4 Winner:\nTo be announced\n{date}<br\/>",
+            "winner-content": "Winners subject to verification.",
+            "subtitle-week-one": "<span class='superscript'>$<\/span><span class='xl'>15,000<\/span><br\/>Weekly<br\/>Cash Prize!<span class='superscript'>^<\/span><br\/>Winner!<span class='superscript'>*<\/span>",
+            "subtitle-week-one-content": "Will you win<span class=\"superscript\">*<\/span> big?",
+            "button-text-see-all-prizes": "See all prizes",
+            "serving-up-prizes": {
+                "title": "Serving up<br\/>Millions<br\/>of Prizes!<span class='superscript'>*<\/span>"
+            },
+            "subtitle-date": "Feb. 4 - Mar. 3"
+        },
+        "hero-available": {
+            "button-text": "Claim Prize"
+        },
+        "how-to-play": {
+            "title": "How to Play",
+            "step-1-alt": "",
+            "step-2-alt": "",
+            "step-3-alt": "",
+            "plus-alt": "",
+            "content-1": "<strong>Peel Game Stamp<\/strong> Off Participating Menu Item",
+            "content-2": "<strong>Scan code<\/strong> in the app",
+            "content-3": "<strong>Win!<\/strong><span class='superscript'>*<\/span> See if you're a Winner! "
+        },
+        "bonus-rewards-points": {
+            "title": "<strong>Get Bonus<br\/> Rewards Points!<\/strong>",
+            "content-1": "5 codes = 2,000 points",
+            "content-2": "Redeem for free M<span class='subscript'>c<\/span>D's!<span class='superscript'>*<\/span>"
+        },
+        "scanned-codes": {
+            "title": "You're {scans} away from 2,000 Rewards Points!",
+            "content": "Earn 2,000 MyMcDonald's Rewards Points with every five codes you scan for free McD's!",
+            "content-2": "<strong>*Limit:<\/strong> Earn a maximum of 10,000 bonus rewards points during the program when you submit your first 25 codes."
+        },
+        "win-great-prizes": {
+            "title": "Win Great Prizes!<span class='superscript'>*<\/span>",
+            "content": "Peel and play for your chance to win prizes including...",
+            "subtitle-1": "CASH!<span class='superscript'>^<\/span>",
+            "content-1-1": "$50, $100, $500 and\n$15,000 Cash^",
+            "subtitle-2": "Journey for 2 with VIA Rail",
+            "subtitle-3": "Headed your way!",
+            "content-3-1": "$25 SKIP Gift Card",
+            "subtitle-4": "Bag up your groceries!",
+            "content-4-1": "$50 Walmart Gift Card",
+            "subtitle-2-1": "with VIA Rail Canada"
+        },
+        "you-got-rewards-points": {
+            "title": "Score, You've got rewards points!",
+            "subtitle": "You've earned 2,000 M<span class=\"subscript\">y<\/span>M<span class=\"subscript\">c<\/span>D<span class=\"subscript\">onald's<\/span> Rewards Points!",
+            "content": "Your points will be available in the Rewards & Offers section of the McDonald’s app within\u202824 hours.",
+            "content-2": "<strong>*Limit:<\/strong> Earn a maximum of 10,000 bonus MyMcDonald's Rewards Points during the program when you submit your first 25 codes.",
+            "image-text": "2,000 <br\/> Points",
+            "scan-alt": "You've scanned all 5 codes"
+        },
+        "earned-max-points": {
+            "title": "You’ve earned max Bonus points!",
+            "subtitle": "Maximum amount of bonus points rewarded",
+            "content": "You’ve scanned 25 codes and have earned the maximum amount of MyMcDonald’s Rewards points allotted. Congratulations!",
+            "content-2": "<strong>*Limit:<\/strong> Earn a maximum of 10,000 bonus MyMcDonald's Rewards Points during the program when you submit your first 25 codes."
+        }
+    },
+    "registration": {
+        "title": "Want to Play?",
+        "form": {
+            "aria-label": "",
+            "required-message": "*All fields are required.",
+            "required-alt": "Required",
+            "first-name-label": "*First Name",
+            "email-label": "*Email",
+            "lock-alt": "",
+            "aom-question-link": "",
+            "aom-question": "*Select an option below. You must be at least 14 years of age to create a profile.",
+            "aom-question-button-text": "<a data-type='modal' href='promo-modal-age-of-majority'>Are you Age of Majority in your Province\/Territory?</a>",
+            "aom-adult-label": "Adult",
+            "aom-adult-content": "I am Age of Majority in my Province or Territory.",
+            "aom-minor-label": "Minor",
+            "aom-minor-content": "I am over 14 and less than Age of Majority in my Province or Territory. (Additional parent\/guardian information needed.)",
+            "guardian-email-label": "Parent\/Guardian Email",
+            "guardian-email-confirmation-label": "Confirm Parent\/Guardian Email",
+            "button-text": "Submit"
+        },
+        "terms": "By clicking \"Submit\", I acknowledge that my personal information will be collected, used and disclosed for the purpose of administering the game and in accordance with the <a href='https:\/\/www.mcdonalds.com\/ca\/en-ca\/privacy.html'>Privacy Policy<\/a>. I confirm that I am over the age of majority and agree to comply with the <a data-type='internal' href='/pdf/rules'>Official Rules<\/a> and <a href='https:\/\/www.mcdonalds.com\/ca\/en-ca\/terms-and-conditions\/loyaltyrewards.html'>Terms & Conditions<\/a>.",
+        "aom-popup": {
+            "title": "Ages of Majority<br\/>in Canada",
+            "18yo-subtitle": "The Age of Majority for the following provinces is 18 years of age:",
+            "19yo-subtitle": "The Age of Majority for the following provinces is 19 years of age:",
+            "close-button-text": "Close"
+        },
+        "terms-1": "By clicking \"Submit\", I acknowledge that my personal information will be collected, used and disclosed for the purpose of administering the game and in accordance with the",
+        "terms-2": "Privacy Policy",
+        "terms-2-link": "https:\/\/www.mcdonalds.com\/ca\/en-ca\/privacy.html",
+        "terms-3": "I confirm that I am over the age of majority and agree to comply with the",
+        "terms-4": "Official Rules",
+        "terms-5": "and",
+        "terms-6": "Terms & Conditions",
+        "terms-6-link": "https:\/\/www.mcdonalds.com\/ca\/en-ca\/terms-and-conditions\/loyaltyrewards.html",
+        "terms-7": "."
+    },
+    "stq": {
+        "interruptor": {
+            "title": "Skill-Testing Question Required to Continue",
+            "content": "Before you have a chance to win a prize, you need to correctly answer the following multiple-choice question without assistance of any kind.",
+            "button-text": "Proceed",
+            "terms-1": "",
+            "terms-2": "",
+            "terms-3": "",
+            "terms-4": "",
+            "terms-5": ""
+        },
+        "challenge": {
+            "title": "Skill-Testing Question",
+            "form-label": "Select the correct answer",
+            "form-aria-label": "Skill-Testing Question",
+            "button-text": "Submit"
+        },
+        "incorrect": {
+            "title": "Incorrect Answer, Try Again",
+            "form-label": "Select the correct answer",
+            "form-aria-label": "Skill-Testing Question",
+            "button-text": "Submit"
+        },
+        "failed": {
+            "title": "You have zero attempts left",
+            "content": "There are no more attempts left to answer the skill-testing question today, but you may come back any time after 12:00:01 a.m. ET through 3\/24\/2025 and try again.",
+            "button-text": "Home"
+        },
+        "correct": {
+            "title": "Your Answer is Correct!",
+            "content": "Congratulations! You are all set to enter your first game code.",
+            "button-text": "Scan Code",
+            "image-alt": "",
+            "home": {
+                "button-text": "Home"
+            },
+            "scan-code": {
+                "button-text": "Scan Code"
+            },
+            "claim-prize": {
+                "button-text": "Claim Prize"
+            }
+        },
+        "bumper": {
+            "title": "Do you want to leave without answering the skill-testing question?",
+            "content": "You are attempting to leave without answering the skill-testing question. If you leave without answering, you will not be able to enter any codes until you return and answer a question correctly.",
+            "ok-button-text": "Leave",
+            "cancel-button-text": "Remain"
+        },
+        "questions": {
+            "1": "Multiply 5x4 <br\/>\nDivide by 10 <br\/>\nAdd 13 <br\/>\nSubtract 5",
+            "2": "Multiply 4x10 <br\/>\nDivide by 2 <br\/>\nAdd 10 <br\/>\nSubtract 6",
+            "3": "Multiply 2x12 <br\/>\nDivide by 6 <br\/>\nAdd 10 <br\/>\nSubtract 2",
+            "4": "Multiply 3x4 <br\/>\nDivide by 6 <br\/>\nAdd 18 <br\/>\nSubtract 3",
+            "5": "Multiply 3x8 <br\/>\nDivide by 4 <br\/>\nAdd 11 <br\/>\nSubtract 2",
+            "6": "Multiply 9x4 <br\/>\nDivide by 3 <br\/>\nAdd 3 <br\/>\nSubtract 10",
+            "7": "Multiply 8x5 <br\/>\nDivide by 4 <br\/>\nAdd 20 <br\/>\nSubtract 6",
+            "8": "Multiply 2x20 <br\/>\nDivide by 10 <br\/>\nAdd 12 <br\/>\nSubtract 5",
+            "9": "Multiply 6x7 <br\/>\nDivide by 2 <br\/>\nAdd 4 <br\/>\nSubtract 10",
+            "10": "Multiply 6x6 <br\/>\nDivide by 3 <br\/>\nAdd 8 <br\/>\nSubtract 2",
+            "disabled": ""
+        },
+        "answers": {
+            "1": "10",
+            "2": "24",
+            "3": "12",
+            "4": "17",
+            "5": "15",
+            "6": "5",
+            "7": "24",
+            "8": "11",
+            "9": "15",
+            "10": "18"
+        }
+    },
+    "code-entry-error": {
+        "invalid-code": {
+            "title": "Invalid Code",
+            "content": "Please check your code and try again.",
+            "retry-button-text": "Scan New Codes",
+            "image-alt": ""
+        },
+        "duplicate-code": {
+            "title": "Sorry, this code has previously been entered.",
+            "subtitle": "Please try again or enter another Code.",
+            "retry-button-text": "Scan New Codes",
+            "image-alt": "",
+            "content": "Please try again or enter another code."
+        },
+        "not-a-winner": {
+            "title": "Keep Trying!",
+            "image-alt": "More codes can be found on McDonalds' menu items, such as Fries or a Drink",
+            "content": "There’s more to be won, so keep trying!\nPlay Want Prize With That?™ from now through 3\/24\/25.",
+            "button-text": "Scan more codes",
+            "subtitle-2": "You're {number} scans away from 2,000 rewards points!",
+            "image-alt-2": "",
+            "content-2": "Earn 2,000 MyMcDonald's Rewards Points with every five codes you scan for free McD's!",
+            "content-3": "<strong>*Limit:<\/strong> Earn a maximum of 10,000 bonus MyMcDonald's Rewards Points during the program when you submit your first 25 codes.",
+            "subtitle-3": "2,000 MyMcDonald's Rewards Points",
+            "content-4": "Your points will be available in the Rewards & Offers section of the McDonald’s app within 24 hours."
+        }
+    },
+    "code-entry-success": {
+        "alert": {
+            "keep-stamps": {
+                "image-alt": ""
+            },
+            "claim-with-stamp": {
+                "image-alt": "",
+                "content": "Present your Game Stamp at the front counter to complete your purchase and claim your item."
+            }
+        },
+        "winner": {
+            "property": {
+                "title": "Winner!<span class='superscript'>*<\/span>",
+                "content": "You entered {propertyName}. Collect the entire {color} properties set and you could win {prizeName}!"
+            },
+            "collection": {
+                "title": "Winner!<span class='superscript'>*<\/span>",
+                "content": "Winners subject to verification.<br\/>You’ve entered {propertyName} and have completed the {color} properties set! Continue your claim for {prizeName}. Claim no later than November 25th, 2024."
+            },
+            "food": {
+                "title": "Winner!",
+                "content": "Congratulations! Find your Prize in the app’s Rewards & Offers Section!<br\/><br\/>Available within approximately 24 hours. Redeem by 3\/27\/25.<br\/>Validation Code: {x}",
+                "image-alt": "",
+                "image-alt-2": "",
+                "button-text": "Scan more codes",
+                "subtitle": "You've earned {number} MyMcDonald's rewards points!",
+                "content-2": "Your points will be available in the Rewards & Offers section of the McDonald’s app within 24 hours.",
+                "content-3": "<strong>*Limit:<\/strong> Earn a maximum of 10,000 bonus MyMcDonald's Rewards Points during the program when you submit your first 25 codes."
+            },
+            "prize": {
+                "title": "Winner!<span class='superscript'>*<\/span>",
+                "content": "*Winners subject to verification. Continue your claim for {prizeName}. Claim no later than 3\/24\/25.<br\/>Validation Code: {x}",
+                "image-alt": "",
+                "button-text": "Claim Prize",
+                "via-rail-img-alt": "Via Rail Canada"
+            },
+            "mcd-card": {
+                "title": "Winner!<span class='superscript'>*<\/span>"
+            },
+            "delivery": {
+                "title": "Winner!<span class='superscript'>*<\/span>",
+                "content": "*Winners subject to verification.<br\/>Claim your prize no later than November 25th, 2024."
+            },
+            "points": {
+                "title": "Winner!<span class='superscript'>*<\/span>",
+                "content": "Your points will be available in the Rewards & Offers section of the McDonald’s app within 24 hours."
+            },
+            "non-food": {
+                "title": "Winner!<span class='superscript'>*<\/span>",
+                "content": "*Winners subject to verification. Continue your claim for {prizeName}. Claim no later than 3\/24\/25.<br\/>Validation Code: {x}",
+                "image-alt": "",
+                "button-text": "Claim Prize",
+                "subtitle": "You're {number} scans away from 2,000 Rewards points!",
+                "content-2": "Earn 2,000 MyMcDonald's Rewards Points with every five codes you scan for free McD's!",
+                "content-3": "<strong>*Limit:<\/strong> Earn a maximum of 10,000 bonus MyMcDonald's Rewards Points during the program when you submit your first 25 codes.",
+                "image-alt-2": ""
+            },
+            "mmr-points": {
+                "title": "Winner!",
+                "content": "Your points will be available in the Rewards & Offers section of the McDonald’s app within 24 hours.<br\/>Validation Code: {x}",
+                "image-alt": "",
+                "image-alt-2": "",
+                "button-text": "Scan more codes",
+                "subtitle": "You've won {number} MyM<span class='subscript'>c<\/span>Donald's rewards points! ",
+                "subtitle-2": "You're {number} scans away from 2 000 rewards points!",
+                "content-2": "Earn 2,000 MyMcDonald's Rewards Points with every five codes you scan for free McD's!",
+                "content-3": "<strong>*Limit:<\/strong> Earn a maximum of 10,000 bonus MyMcDonald's Rewards Points during the program when you submit your first 25 codes."
+            },
+            "weekly-cash": {
+                "title": "Winner!<span class='superscript'>*<\/span>",
+                "image-alt": "$15,000 Cash^ Prize<span class='superscript'>^<\/span>",
+                "content": "*Winners subject to verification. Continue your claim for {prizeName}. Claim no later than 3\/24\/25.<br\/>Validation Code: {x}",
+                "subtitle": "Congratulations, You are our winner!",
+                "button-text": "Claim Prize",
+                "subtitle-3": "You're {number} scans away from 2,000 rewards points!",
+                "image-alt-2": "",
+                "content-2": "Earn 2,000 MyMcDonald's Rewards Points with every five codes you scan for free McD's!",
+                "content-3": "<strong>*Limit:<\/strong> Earn a maximum of 10,000 bonus MyMcDonald's Rewards Points during the program when you submit your first 25 codes.",
+                "image-alt-3": "",
+                "amount-text": "<span class='superscript'>$<\/span><span class='xl'>15,000<\/span>",
+                "cash-prize-text": "Cash Prize<span class='superscript'>^<\/span>"
+            }
+        },
+        "claim-prize": {
+            "button-text": "Claim Prize"
+        }
+    },
+    "menu-items": {
+        "title": "Participating<br\/>Menu Items",
+        "subtitle": "The following menu items carry Game Stamps, while supplies last."
+    },
+    "prizes": {
+        "title": "Prizes"
+    },
+    "claim-prize": {
+        "title": "Claim Prize",
+        "how-to-claim": {
+            "title": "How to Claim",
+            "step-1-label": "Reveal Prize Confirmation",
+            "step-1-content": "Enter your 12-digit Game Stamp code and see if you’ve won a prize.",
+            "step-2-label": "Claim Prizes",
+            "step-2-content": "If any additional information is needed from you in order to claim a prize, you can begin the claim process immediately. \nYou can also select the “Claim Prize” icon on the navigation bar to see your available prizes and begin the claim process."
+        },
+        "prizes": {
+            "empty-title": "Prizes Available to Claim",
+            "empty-message": "There are no prizes available to claim at this time.",
+            "button-text": "Claim Prize"
+        },
+        "sweeps": {
+            "empty-message": "You have no entries available at this time.",
+            "button-text": "Go to Prize Drawings"
+        },
+        "faqs": {
+            "1": "Question about claiming a Prize?",
+            "2": "<u>Visit FAQs<\/u>",
+            "3": "."
+        },
+        "prize-winner": {
+            "text": "Winner!<span class='superscript'>*<\/span>",
+            "cash": "$500 Cash!<span class='superscript'>^<\/span>",
+            "skip": "$25 Skip Gift Code",
+            "mmr-points": "14,000 MyMcDonald's Rewards Points",
+            "small-fries": "Small Fries"
+        },
+        "prize-winner-cash": {
+            "text": "Winner!<span class='superscript'>*<\/span>",
+            "image-alt": ""
+        },
+        "prize-winner-skip": {
+            "text": "Winner!<span class='superscript'>*<\/span>",
+            "image-alt": ""
+        },
+        "prize-winner-mmr": {
+            "text": "Winner!<span class='superscript'>*<\/span>",
+            "image-alt": ""
+        },
+        "prize-winner-sm-fries": {
+            "text": "Winner!<span class='superscript'>*<\/span>",
+            "image-alt": ""
+        }
+    },
+    "account": {
+        "title": "{name}’s Account",
+        "profile-alt": "",
+        "claim-available": {
+            "title": "You have a prize<br\/> available to claim",
+            "button-text": "Go to Claim Prize",
+            "image-alt": ""
+        },
+        "gamestamps": {
+            "title": "Previously Entered<br\/>Game Stamp Codes",
+            "empty-title": "No Codes Entered",
+            "empty-blurb": "Start entering Game Stamp codes to claim prizes!",
+            "empty-button": "Scan Code",
+            "more": "View All",
+            "close": "Close"
+        },
+        "prizes": {
+            "title": "Claimed Prizes",
+            "empty-title": "No Prizes Claimed",
+            "empty-blurb": "Check “Claim Prize” for any unclaimed prizes.",
+            "more": "View All",
+            "close": "Close"
+        },
+        "timestamp": {
+            "at": " at "
+        },
+        "legal-disclaimer": "Prize history updates periodically throughout the day.",
+        "content-item": {
+            "validation": "Validation Code :"
+        }
+    },
+    "redemption": {
+        "interruptor": {
+            "check-title": "Parent\/Legal Guardian Needed to Continue!",
+            "check-content": "<p>You will need your parent or legal guardian to continue claiming your prize. Select “Continue” when parent or legal guardian is present.<\/p><p>An email will also be sent to the parent or legal guardian email address used during registration.<\/p>",
+            "check-button-text": "Continue",
+            "confirm-title": "Parent\/Legal Guardian Confirmation",
+            "confirm-content-1": "By selecting the button below, you confirm that you are the parent or legal guardian of the minor claiming this prize in the Want Prize With That?™ game at McDonald’s.\n\nFor more details go to",
+            "confirm-content-2": "Terms and Conditions",
+            "confirm-content-3": ".",
+            "confirm-button-text": "I am the Parent or Guardian",
+            "confirm-content-2-link": "https:\/\/www.mcdonalds.com\/ca\/en-ca\/terms-and-conditions\/loyaltyrewards.html",
+            "confirm-content": "By selecting the button below, you confirm that you are the parent or legal guardian of the minor claiming this prize in the Want Prize With That?™ game at McDonald’s.\n\nFor more details go to <u>Terms and Conditions<\/u>."
+        },
+        "common": {
+            "title": "Claim Your Prize!",
+            "required-message": "*indicates required field",
+            "required-alt": "Required",
+            "edit": "[edit]",
+            "check-alt": "",
+            "lock-alt": ""
+        },
+        "terms": {
+            "step-title": "Terms & Conditions and Privacy Policy",
+            "content": "",
+            "agreement": "By clicking \"Submit\", I acknowledge that my personal information will be collected, used and disclosed for the purpose of administering the game and in accordance with the <u>Privacy Policy<\/u>. I confirm that I am over the age of majority and agree to comply with the <u>Official Rules<\/u> and <u>Terms & Conditions<\/u>.",
+            "button-text": "Continue",
+            "agreement-1": "By clicking \"Submit\", I acknowledge that my personal information will be collected, used and disclosed for the purpose of administering the game and in accordance with the",
+            "agreement-2": "Privacy Policy",
+            "agreement-2-link": "https:\/\/www.mcdonalds.com\/ca\/en-ca\/privacy.html",
+            "agreement-3": "I am Age of Majority in my Province or Territory.",
+            "agreement-4": "Official Rules",
+            "agreement-5": "and",
+            "agreement-6": "Terms & Conditions",
+            "agreement-6-link": "https:\/\/www.mcdonalds.com\/ca\/en-ca\/terms-and-conditions\/loyaltyrewards.html",
+            "agreement-7": "."
+        },
+        "about": {
+            "step-title": "About You",
+            "first-name-label": "*First Name",
+            "last-name-label": "*Last Name",
+            "phone-label": "*Phone",
+            "email-label": "*Email",
+            "about-minor": "About Minor",
+            "minor-first-name-label": "*First Name",
+            "minor-last-name-label": "*Last Name",
+            "button-text": "Continue",
+            "form-aria-label": "",
+            "name-disclaimer": "Use your legal name so prizes, including cheques, can be properly claimed and delivered.",
+            "minor-edit-label": "Minor: ",
+            "check-mark-alt": "Step {number} completed",
+            "step-number": "Step {number}",
+            "important-alt": "Important"
+        },
+        "address": {
+            "step-title": "Your Address",
+            "delivery-disclaimer": "For potential winners claiming a Skip prize that reside outside of its delivery zone, will be awarded a substitute prize of a McDonald’s Card in the same denomination upon successful prize claim completion.",
+            "address-disclaimer": "Your address can be used to send your prize. Please enter accurate information.",
+            "warning-alt": "",
+            "address-line-1-label": "*Street Address",
+            "address-type-label": "*Type of Address",
+            "address-line-2-label": "*Apt\/Building\/Floor\/Suite\/Unit",
+            "state-select-label": "*Select Province\/Territory",
+            "city-label": "*City\/Town",
+            "postcode-label": "*Postal Code",
+            "button-text": "Continue",
+            "form-aria-label": ""
+        },
+        "address-correction": {
+            "title": "Address Correction",
+            "address-found": {
+                "content-1": "<p>The residential address you have provided does not match Canada Post address information. Please select an option below.<\/p>",
+                "label": "Select an address to continue:",
+                "canada-post": "Canada Post address information",
+                "your-entry": "Address you entered",
+                "button-text": "Continue",
+                "aria-label": "Address Correction",
+                "content-2": "<p><strong>Note: Incorrect address information may result in a delay in receiving your prize or may result in your prize being undeliverable and therefore forfeited.<\/strong><\/p>"
+            },
+            "address-not-found": {
+                "content": "<p>The residential address you have provided could not be identified as an address using Canada Post address information. You can select \"Back\" to enter the correct address information or select \"Continue\" to proceed with the original address you entered. <\/p>",
+                "label": "Address Information:",
+                "your-entry": "Address you entered",
+                "continue-button-text": "Continue",
+                "back-button-text": "Back",
+                "aria-label": "Address Information",
+                "content-2": "<p><strong>Note: Incorrect address information may result in a delay in receiving your prize or may result in your prize being undeliverable and therefore forfeited.<\/strong><\/p>"
+            },
+            "back-button-text": "Continue",
+            "continue-button-text": "Continue"
+        },
+        "review": {
+            "step-title": "Review & Submit",
+            "agreement": "*I’ve reviewed all of the information above and understand that once submitted, the information cannot be changed.",
+            "button-text": "Submit"
+        },
+        "claim-submitted": {
+            "title": "Claim Submitted",
+            "default": {
+                "subtitle": "Please check your email",
+                "content": "<p>Based on the information you provided you have successfully completed the online claim verification process to receive {prizeName}.<\/p>\n\n<p><strong>Please check the email address provided in the course of the prize claim process for additional instructions to redeem your {prizeName}.<\/strong><\/p>",
+                "button-text": "Home"
+            },
+            "docusign": {
+                "subtitle": "Declaration and Release",
+                "content": "<strong>Submission of Declaration and Release Form Needed <\/strong><br\/><br\/>\n\nWithin 2 – 3 business days, you will receive an email with a link to your Declaration and Release from DocuSign. The Declaration must be electronically completed and submitted within five business days of receipt.<br\/><br\/>\n\nIf you do not receive an email from DocuSign in your inbox within 2 – 3 business days of receiving a potential winner message, please check your spam\/junk folder.",
+                "button-text": "Home",
+                "cant-print-content-1": "If by any reason you are unable to print out the Declaration and Release form, please contact (866) 375-0638. Then provide the representative with information (first and last name, full mailing address including postal code, daytime phone number, email address and the code from your potentially winning Game Stamp(s)) so we can mail a Declaration and Release form to you. The deadline to make this request is 11:59:59 p.m. local time on March 24, 2025.<br\/><br\/>For all other questions, please visit"
+            },
+            "delivery-alt": {
+                "subtitle": "Please check your email",
+                "content": "<p>Based on the information provided, you have successfully completed the online redemption verification process to receive {prizeName}.<\/p><p>You are not required at this time to mail in your original Game Stamp, but you should keep that original Game Stamp in your records.<\/p><p><strong>Please check the email address provided in the course of the prize claim process for additional instructions to redeem your {prizeName}.<\/strong><\/p>",
+                "button-text": "Home"
+            }
+        }
+    },
+    "faqs": {
+        "title": "Frequently Asked Questions",
+        "introduction": {
+            "1": "The “FAQ’s”",
+            "2": "for the",
+            "3": "2025 “Want PRIZE With That?™” Game at McDonald’s"
+        },
+        "cards": {
+            "points-question": {
+                "title": "Points Questions?",
+                "content": "",
+                "link": "https:\/\/www.mcdonalds.com\/ca\/en-ca\/contact-us.html",
+                "alt": ""
+            }
+        },
+        "note-1": "<strong>Note:<\/strong> McDonald’s Restaurants of Canada Limited has implemented an accessibility plan outlining its commitment to removing barriers for persons with disabilities or, when removing barriers is not possible, accommodating persons with disabilities in a timely, effective and suitable manner. Please refer to McDonald’s Accessibility (<a href=\"https:\/\/www.mcdonalds.com\/ca\/en-ca\/accessibility.html\">https:\/\/www.mcdonalds.com\/ca\/en-ca\/accessibility.html<\/a>) for information. <br\/><br\/>\n\nAll capitalized terms within these FAQs are defined in the Official Rules of the Game. For full details, please refer to the Official Rules. Except as otherwise specifically stated, all times mentioned in these FAQs are local time (“Local Time” or “LT”), which refers to the time of day at the location of a particular Game Participant in Canada.",
+        "need-help": {
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "categories": [
+            {
+                "title": "General Information about the Game:",
+                "questions": [
+                    {
+                        "question": "1. Who can play the “Want PRIZE With That?™” Game at McDonald’s?",
+                        "answer": "The Game is open only to residents of Canada who are <strong>fourteen years of age or older on the date of participation in the Game.<\/strong><br\/><br\/>\n\n<strong>Persons in any of the following categories are not eligible to participate in, or to win a Prize in, the Game: <\/strong><br\/><br\/>\n\n(a) any person who, on or after September 1, 2024, was or is a director, officer, employee, member, manager, agent or franchisee of any one or more of the following: Sponsor, or any one or more of its respective divisions, parents, subsidiaries, affiliated or related companies, franchisees, advertising and promotional agencies, representatives, service agencies or independent contractors; <br\/><br\/>\n\n(b) any individual engaged in the development, production or distribution of materials for the Game including the Redemption Centre (“Redemption Centre”); <br\/><br\/>\n\n(c) any person who, on or after September 1, 2024, was or is a director, officer, member, manager, agent or franchisee\/dealer of any of the following suppliers of Prizes in connection with the Game (such suppliers being referred to hereafter, collectively, as the “Prize Partners” and, individually, as a “Prize Partner”): Tropical Tree Sports Apparel; Paramount Streaming Canada, a division of Paramount Entertainment Canada ULC; Skip the Dishes Restaurant Services Inc.; Vasanti Cosmetics Inc.; VIA Rail Canada Inc.; or Wal-Mart Canada Corp., or of any such Prize Partner’s divisions, parent company, subsidiaries, affiliated or related companies, dealers and dealerships, franchisees, representatives, service agencies or independent contractors; however, the employees of such Prize Partners may participate in the Game but are not eligible to receive and may not claim any Prize supplied or provided by the Prize Partner or by an affiliated or parent company of the Prize Partner for which they work.<br\/><br\/>\n\n(d) any person who is or purports to be an immediate family member (defined as spouse, dependent for federal income tax purposes, siblings, or step-, biological, foster, in-law or adoptive parents, siblings or children) of, or who resides or is domiciled in the same household as, any person in any of the preceding categories."
+                    },
+                    {
+                        "answer": "<strong>Game Period begins:<\/strong> February 4, 2025, at 12:00:00 a.m. LT. Refer to Rule 1. <br\/>\n<strong>Deadline for Game Code entry & Prize Claim:<\/strong> March 24, 2025, at 11:59:59 p.m. LT. <br\/>",
+                        "question": "2. What are important dates for the Game?"
+                    },
+                    {
+                        "question": "3. How can I participate in the 2025 “Want PRIZE With That?™” Game At McDonald’s?",
+                        "answer": "To participate, you must be registered on the McDonald’s app and be fourteen years old on the date of participation in the Game. To get a Game Stamp, go to a participating McDonald’s and purchase specially-marked packages (while supplies last) during the Game Period, beginning at 12:00:00 a.m. LT on February 4, 2025, and ending at 11:59:59 p.m. LT on March 24, 2025. For how to get a Game Stamp without making a food purchase, refer to FAQ 6 or Rule 3.B. A registration for a previous game or promotion will not be valid for this Game; you must create a new registration for this Game. <br\/><br\/>\n\nFirst-time participants must complete the following:<br\/><br\/>\n\n<ol>\n<li>Open the McDonald’s app.<\/li>\n<li>Click on the promotional banner.<\/li>\n<li>Create a Game Account by providing the required information.<br\/>\n\t<ul>\n\t<li>You will be asked to provide your first name, and your email will be prepopulated from your McD’s app account (and cannot be changed).<\/li>\n\t<li>You must indicate if you are (a) an adult (refer to “Age of Majority by province\/territory” in Rule 6 or FAQ 25), by confirming that you are over the age of majority in your province or territory of residence, or (b) a minor, but over fourteen years of age. If you are a minor, you must provide your first name only and the email address you used to sign up for the McD’s app as well as a parent\/legal guardian’s email address and confirm that email address.<\/li>\n\t<\/ul>\n<\/li>\n<li>Click “Submit” to create your Game Account. After you click submit, your Game Account will sync with your McD’s app account.<\/li>\n<li>Correctly answer a Skill-Testing Question before you scan\/enter your first Game Code. You only have to correctly answer the Skill-Testing Question once.<\/li>\n<li>Peel the Game Stamp to reveal a 12-digit, unique alphanumeric Game Code.<\/li>\n<li>Access the buttons on the Home Page to scan or manually enter the 12-digit Game Code.<\/li>\n<\/ol>\n\nYou may continue to scan\/enter Game Codes during the Game Period to see if you are a potential winner. If you are a potential winner, the result will reveal the Prize that you have potentially won (described in Rule 5). You can then follow the on-screen instructions to claim the Prize. If you are a potential winner, go to “Claim Prize” (to claim a Prize you are eligible to win but have not yet claimed). <br\/><br\/>\n\n<strong>There is a limit of one McD's app account per Participant.<\/strong>\n \nEven if your Game Play does not result in a Prize, you will receive one Game Code credit towards Bonus Rewards Points (you can obtain 2,000 Bonus Rewards Points, each time you enter a total of five valid Game Codes, up to a maximum of 10,000 Bonus Rewards Points (i.e., when you scan\/enter a total of 25 valid Game Codes) during the Game).<br\/><br\/>\n\nPlease keep your original Game Stamp for purposes of Prize claim verification. The Sponsor reserves the right, at its sole and absolute discretion, to require a potential Prize winner to provide the original Game Stamp to the Sponsor, for Prize Claim verification purposes. Refer to Rule 4.C."
+                    },
+                    {
+                        "answer": "<strong>Via Mobile Device: <\/strong>\n<ul>\n<li>iOS: 15+<\/li> \n<li>Android: 9.0+ <\/li>\n<\/ul>\n\nNote: Browser must have JavaScript and Cookies enabled. <br\/>\n\n<strong>Device Requirements:<\/strong> <br\/>\nDevices must be capable of displaying HTML and XHTML content in order to access the Game. <br\/>\n<strong>Screen Resolution Requirements: <\/strong><br\/>\nUsing a mobile viewport screen lower than 375px wide may result in a Participant not being able to access or use the McD’s app when they tap on the promotional banner. <br\/>\n<strong>Non-Supported Browsers and Operating Systems:<\/strong><br\/>\n<strong>Using a browser or device not supported may prevent access to the Game. <\/strong><br\/>\nWhile all efforts are made to support current browsers, operating systems and devices, new operating systems, browsers and devices may not be supported if brought to market after the development of the Game and may affect the Participant’s experience in the McD’s app when they tap on the promotional banner. Sponsor is not responsible for any browser, operating system or device supporting issues. <br\/><br\/>\nThroughout the Game Period, a Participant who is fourteen years of age or older can access the McD’s app on their phone or tablet and tap on the promotional banner to participate in the  Game, following all applicable directions. For greater certainty, Participants who are under the age of fourteen must have their parent or legal guardian play in the McD’s app on their behalf, and Participants who are fourteen or older but under the age of majority will require a parent or legal guardian to claim any Prize on their behalf except for food or MyMcDonald’s Rewards Points Prizes.",
+                        "question": "4. What are the technical requirements for the McDonald’s app? "
+                    },
+                    {
+                        "question": "5. Where do I get a Game Stamp to play the Game?",
+                        "answer": "One Game Stamp is affixed to the following specially-marked food items: \n<ul>\n<li>medium and large hot <strong>McCafé<sup>®<\/sup><\/strong> beverages (Premium Roast Coffee, Tea, Mocha, Latte, Cappuccino, Americano and Hot Chocolate)<\/li>\n<li>extra-large hot <strong>McCafé<sup>®<\/sup><\/strong> beverages (Premium Roast Coffee or Tea only)<\/li>\n<li>medium and large Fountain Drinks<\/li>\n<li>medium and large <strong>Triple Thick Milkshake<sup>®<\/sup><\/strong><\/li>\n<li><strong>Big Mac<sup>®<\/sup><\/strong> sandwich <\/li>\n<li>medium and large Fries<\/li>\n<li>Hash Brown<\/li>\n<li>10-piece <strong>Chicken McNuggets<sup>®<\/sup><\/strong><\/li>\n<\/ul>\n\nSpecially-marked packages referred to above are available for the applicable menu item during the hours when that menu item is served, while supplies last. The hours during which particular menu items are served vary at some participating McDonald’s restaurants in Canada. As the Game progresses, some forms of the specially-marked packages referred to above may run out before others and may not be replenished."
+                    },
+                    {
+                        "question": "6. Can I play the Game without purchasing a food item?",
+                        "answer": "There is an alternative means of entry into the Game without purchasing a food item. Beginning on January 20, 2025, and until March 3, 2025, you can request a Game Stamp by mailing a request as follows: \n<ol>\n<li>The request must be mailed in a postage-paid outer envelope.<\/li>\n<li>Your complete return mailing address must be included on the outer envelope.<\/li>\n<li>Within the outer envelope there must be one self-addressed envelope that uses the Participants complete mailing address.<\/li>\n<li>The self-addressed envelope must bear sufficient return postage.<\/li>\n<li>The outer envelope must be mailed to:<br\/>\n<strong>2025 “Want PRIZE With That?™” Game at McDonald’s Game Stamp Request<br\/>\nP.O. Box 12561<br\/>\nSaint John, New Brunswick, Canada, E2L 5R4<\/strong>\t<\/li>\n<\/ol>\n\n\n<strong>Note: Do Not Send Any Potential Winning Declaration, Comments Or Questions To This Address.<\/strong> Each Request must be mailed in a separate outer envelope (i.e., only one Request per outer envelope). Both the mailing and return addresses on the exterior envelope must be legible. Envelopes with no return address on the outside will not be honoured. Requests that fail in any way to comply with the requirements set out above in this sub-paragraph or that are not mailed separately (i.e., only one Request per outer envelope) bearing sufficient postage will not be honoured. While supplies last, one Game Stamp will be mailed in response to each Request that complies with these requirements. <strong>The outer envelopes bearing the Requests must be postmarked by no later than March 3, 2025.<\/strong> <br\/>  \n<strong>Note:<\/strong> You must have a mobile device to add Game Codes and claim Prizes."
+                    },
+                    {
+                        "question": "7. How do I earn Bonus Rewards Points?",
+                        "answer": "Each Participant who successfully scans\/enters five valid Game Codes will receive 2,000 Bonus Rewards Points deposited directly to the Rewards & Offers section of their McD’s app account within twenty-four hours. There is a limit of 10,000 Bonus Rewards Points (i.e., when a Participant scans\/enters a total of 25 valid Game Codes) per Participant\/McD’s app account during the Game. Points expire on the first day of the month after the sixth month from the date such points are deposited. Use of MyMcDonald’s Rewards Points (including without limitation, but for greater certainty, Bonus Rewards Points) are subject to the terms and conditions of the MyMcDonald’s Rewards program, available at <a href=\"https:\/\/www.mcdonalds.com\/ca\/en-ca\/terms-and-conditions\/loyaltyrewards.html\">www.mcdonalds.ca\/myrewardsterms<\/a>. ARV: $1.60.",
+                        "answer-url": "https:\/\/www.mcdonalds.ca\/myrewardsterms"
+                    },
+                    {
+                        "question": "8. Where do I get the McDonald’s app to play the Game?",
+                        "answer": "For instructions to get the McD’s app visit: <a href=\"https:\/\/www.mcdonalds.com\/ca\/en-ca\/getmoremcds\/mcdonaldsapp.html\">https:\/\/www.mcdonalds.com\/ca\/en-ca\/getmoremcds\/mcdonaldsapp.html<\/a>. You must be at least fourteen years of age to register and activate a McD’s app account. After you download, register and activate the McD’s app, you can participate in the Game via the McD’s app during the Game Period (beginning at 12:00:00 a.m. LT on February 4, 2025, and ending at 11:59:59 p.m. LT ",
+                        "answer-url": "https:\/\/www.mcdonalds.com\/ca\/en-ca\/getmoremcds\/mcdonaldsapp.html"
+                    },
+                    {
+                        "question": "9. Where do I go if I need help downloading the McDonald’s app?",
+                        "answer": "If you are having trouble downloading or using the McD’s app, go to <a href=\"https:\/\/www.mcdonalds.com\/ca\/en-ca\/contact-us.html\">https:\/\/www.mcdonalds.com\/ca\/en-ca\/contact-us.html<\/a> to submit a ticket for your issue.",
+                        "answer-url": "https:\/\/www.mcdonalds.com\/ca\/en-ca\/contact-us.html"
+                    },
+                    {
+                        "question": "10. How do I keep track of my Game Codes or claim Prizes for the Game?",
+                        "answer": "<strong>All of your Game Play information is in the McDonald’s app. <\/strong> <br\/>\n\nFirst, you must download the McD’s app and complete the registration. Then, click on the “Want PRIZE With That?™” promotional banner and create a Game Account. After you have created a Game Account, you may use the applicable buttons on the Home Page to “Scan Code” or “Claim Prize”. Refer to FAQ 3 for details on how you can participate in the Game."
+                    },
+                    {
+                        "question": "11. I already have the McDonald’s app, where do I find the Game? ",
+                        "answer": "Within the McD’s app, tap on the 2025 “Want PRIZE With That?™” promotional banner. The system will verify that you are registered and logged in to the McD’s app (you must be fourteen years of age or older to register for the McD’s app). If you have not yet registered for the McD’s app, you will need to do so before you can participate (find instructions in Rule 4.A.). Once you are registered for the McD’s app and tap the promotional banner, follow the instructions to create a Game Account. Once complete, you will be able to “Scan Code” and “Claim Prize”. Refer to FAQ 3 for details on how you can participate in the Game."
+                    },
+                    {
+                        "question": "12. How do I scan\/enter Game Codes to play the Game?",
+                        "answer": "Beginning <strong>February 4, 2025, at 12:00:00 a.m. LT<\/strong>, you must use the McDonald’s app to scan\/enter Game Codes. Once in the McD’s app, tap on the 2025 “Want PRIZE With That?™” promotional banner. If you are a first-time user, you must create a Game Account by entering the required information and correctly answering the Skill-Testing Question, then you can scan or manually enter the 12-digit Game Code. Refer to FAQ 3 for details on how you can participate in the Game."
+                    },
+                    {
+                        "question": "13. Can I play without making a purchase?",
+                        "answer": "You can participate in the 2025 “Want PRIZE With That?™” Game At McDonald’s without making a purchase. Refer to FAQ 6 or Rule 3.B. of the Official Rules. However, you must have a mobile device to add Codes and claim prizes."
+                    },
+                    {
+                        "question": "14. Where can I find the Prizes to be won in the Game?",
+                        "answer": "There are a total of approximately 9,547,218 Prizes available to be won at the outset of the Game. Refer to Rule 5.B. in the Official Rules."
+                    },
+                    {
+                        "question": "15. How soon will a food Prize be in my McDonald’s app account?",
+                        "answer": "When you win a food Prize, the food Prize will deposit in the Rewards & Offers section of your McD’s app account within approximately twenty-four hours. The food Prize can also be applied to a McDelivery order. Food Prizes will <strong>expire at 11:59:59 p.m. on March 27, 2025<\/strong>."
+                    },
+                    {
+                        "question": "16. What are the Odds of the Game?",
+                        "answer": "The odds of winning a Prize depend on the number of Participants, the Winning Time for each Prize and the time that the McDonald’s app records the submission and receipt of a particular Participant’s Game Code in the McDonald’s app. While these Prizes are seeded on a generally random basis, more Prizes are seeded at times throughout the Game when activity is expected to be higher. <br\/>\n\nThe four $15,000 Cash^ Prizes (refer to Rule 5.B.) will be seeded as follows: The first Prize will be randomly seeded during the week of Feb. 4 – Feb. 10, 2025; The second Prize will be randomly seeded the week of Feb. 11 – Feb. 17, 2025; The third Prize will be randomly seeded the week of Feb. 18 – Feb. 24, 2025; and the fourth Prize will be randomly seeded the week of Feb. 25 – Mar. 3, 2025.<br\/> \n\nRefer to Rule 5.A. for full Odds details."
+                    },
+                    {
+                        "question": "17. Is there a daily limit of how many Codes I can enter per day?",
+                        "answer": "There is a limit of ten Game Code entries per day (for the purposes of this limitation only, a “day” begins at 12:00:00 a.m. ET and ends at 11:59:59 p.m. ET)."
+                    },
+                    {
+                        "question": "18. How can I find a copy of the Official Rules?",
+                        "answer": "Official Rules will be available at participating McDonald’s restaurants in Canada until April 30, 2025. To receive a copy by mail, mail a request to:<br\/>\nWant PRIZE With That?™ Official Rules<br\/>\nP.O. Box 12562, Saint John, <br\/>\nNew Brunswick, Canada, E2L 5R4<br\/>\n\nWithin the outer envelope there must be one self-addressed, stamped envelope that uses the Participant’s complete mailing address. The self-addressed envelope must be sufficient to hold a 12-page document and bear sufficient return postage. Requests must be received by March 3, 2025."
+                    }
+                ]
+            },
+            {
+                "title": "MyMcDonald’s Rewards Points Prizes:",
+                "questions": [
+                    {
+                        "question": "19. How do I claim MyMcDonald’s Reward Points? How long will it take for them to appear in my McDonald’s app account?",
+                        "answer": "Click on the Want PRIZE With That?™ promotional banner and tap on “Scan Code”. Once a Game Code is scanned\/entered, the MyMcDonald’s Rewards Points Prize will be deposited in the Rewards & Offers section of your McD’s app account. <strong>Allow twenty-four hours following your Prize claim for the MyMcDonald’s Rewards Points to appear in your account.<\/strong><br\/>\n\nMyMcDonald’s Rewards Points are valid for use at McDonald’s restaurant locations in Canada in the McD’s app for McDonald’s food. <strong>Points expire on the first day of the month after the sixth month from the date such points were deposited<\/strong>, except where prohibited by law. Points are not assignable or transferrable between accounts or otherwise, and points cannot be combined across accounts, regardless of who registered the account. Limit one redemption per order. Use of MyMcDonald’s Rewards Points are subject to the terms and conditions of the MyMcDonald’s Rewards program, available at <a href=\"https:\/\/www.mcdonalds.com\/ca\/en-ca\/terms-and-conditions\/loyaltyrewards.html\">www.mcdonalds.ca\/myrewardsterms<\/a> or on the McD’s app. Points Prizes won in the Game will be deposited in your McD’s app account when you win the Prize. Refer to Rule 6.C.(2) of the Official Rules.",
+                        "answer-url": "https:\/\/www.mcdonalds.ca\/myrewardsterms"
+                    },
+                    {
+                        "answer": "Points expire on the first day of the month after the sixth month from the date such points were deposited, except where prohibited by law. Points are not assignable or transferrable between accounts or otherwise, and points cannot be combined across accounts, regardless of who registered the account. Limit one redemption per order.",
+                        "question": "20. How long do I have to use MyMcDonald’s Rewards Points after I have claimed them?",
+                        "answer-url": "https:\/\/www.mcdonalds.com\/ca\/en-ca\/getmoremcds\/mymcdonaldsrewards.html"
+                    },
+                    {
+                        "question": "21. Can I combine my MyMcDonald’s Rewards Points with another person’s?",
+                        "answer": "Points are not assignable or transferrable between accounts or otherwise, and points cannot be combined across accounts, regardless of who registered the account. Limit one redemption per order. Use of MyMcDonald’s Rewards Points are subject to the terms and conditions of the MyMcDonald’s Rewards Points program, available at <a href=\"https:\/\/www.mcdonalds.com\/ca\/en-ca\/getmoremcds\/mymcdonaldsrewards.html\">https:\/\/www.mcdonalds.com\/ca\/en-ca\/getmoremcds\/mymcdonaldsrewards.html<\/a> or on the McD’s app.",
+                        "answer-url": "https:\/\/www.mcdonalds.com\/ca\/en-ca\/getmoremcds\/mymcdonaldsrewards.html"
+                    },
+                    {
+                        "question": "22. Where can I get more information about MyMcDonald’s Rewards Points?",
+                        "answer": "Use of MyMcDonald’s Rewards Points are subject to the terms and conditions of the MyMcDonald’s Rewards Points program, available on the McD’s app or online: <a href=\"https:\/\/www.mcdonalds.com\/ca\/en-ca\/getmoremcds\/mymcdonaldsrewards.html\">https:\/\/www.mcdonalds.com\/ca\/en-ca\/getmoremcds\/mymcdonaldsrewards.html<\/a>",
+                        "answer-url": "https:\/\/www.mcdonalds.com\/ca\/en-ca\/getmoremcds\/mymcdonaldsrewards.html"
+                    },
+                    {
+                        "question": "23. If I win MyMcDonald’s Rewards Points, can I still earn points when I spend them?",
+                        "answer": "Per the McD’s app terms, you can only earn points when actual “dollars” are spent, although that can happen in the same transaction in which you redeem some points you won in the Game. For example, you have to spend beyond what the points equate to in order to earn additional points in a transaction. <br\/>\n\nGo to this URL for more information:  <a href=\"https:\/\/www.mcdonalds.com\/ca\/en-ca\/getmoremcds\/mymcdonaldsrewards.html\">https:\/\/www.mcdonalds.com\/ca\/en-ca\/getmoremcds\/mymcdonaldsrewards.html<\/a>.",
+                        "answer-url": "https:\/\/www.mcdonalds.com\/ca\/en-ca\/getmoremcds\/mymcdonaldsrewards.html"
+                    }
+                ]
+            },
+            {
+                "title": "Claim Prizes:",
+                "questions": [
+                    {
+                        "answer": "There are a total of approximately 9,547,218 Prizes available to be won at the outset of the Game. Refer to Rule 5.B. in the Official Rules.",
+                        "question": "24. Where can I find the Prizes to be won in the Game?"
+                    },
+                    {
+                        "question": "25. Who can claim a Prize in the Game?",
+                        "answer": "In order to claim a non-food Prize or non-MyMcDonald’s Rewards Points Prize in the Game, a Participant must be the age of majority in their province\/territory of residence as of the date the Prize is being claimed or must be the parent\/legal guardian of an eligible Minor who is a potential Prize winner. <br\/>\n\n<strong>The Age of Majority for the following provinces is eighteen years old:<\/strong> Alberta, Manitoba, Ontario, Prince Edward Island, Quebec and Saskatchewan. <br\/>\n\n<strong>The Age of Majority for the following provinces\/territories is nineteen years old:<\/strong> British Columbia, New Brunswick, Newfoundland and Labrador, Northwest Territories, Nova Scotia, Nunavut and Yukon. "
+                    },
+                    {
+                        "question": "26. What are the Prize Claim deadlines?",
+                        "answer": "Except as otherwise specifically stated in the Official Rules, all times mentioned are local time (“<strong>Local Time<\/strong>” or “<strong>LT<\/strong>”), which refers to the time of day at the location of a particular Game Participant in Canada.<br\/>\n\n<ul>\n<li>Prize Claim Deadline: 11:59:59 p.m. on March 24, 2025.<\/li>\n<li>Food Prizes will expire at 11:59:59 p.m. on March 27, 2025.<\/li>\n<li>MyMcDonald’s Rewards Points Prizes will expire on the first day of the month after the sixth month from the date such points were deposited, except where prohibited by law.<\/li>\n<\/ul>"
+                    },
+                    {
+                        "question": "27. How do I claim a food Prize or a MyMcDonald’s Rewards Points Prize?",
+                        "answer": "When you win a food Prize or a MyMcDonald’s Rewards Points Prize, the food Prize or MyMcDonald’s Rewards Points Prize will deposit in the Rewards & Offers section of your McD’s app account within approximately twenty-four hours. \n\nThe food Prize can also be applied to a McDelivery order. Valid only at participating McDonald’s restaurants in Canada. Food item availability varies by restaurant. Prize valid for one use only. Limit one Prize per transaction. Not valid for use with any other offer, discount, coupon or promotion. Delivery orders are subject to a delivery fee, service fee, small order fee (when applicable) and any taxes and fees required by law. Prize cannot be reproduced, transferred or used by anyone else. Valid when food item is served. Exclusions may apply. No substitutions. May not be valid for custom orders. Extra charges may apply for additional or substituted ingredients\/toppings or other customization. Food Prizes will expire at <strong>11:59:59 p.m. on March 27, 2025<\/strong>. <br\/>\n\nThe MyMcDonald’s Rewards Points Prize will deposit in the Rewards & Offers section of your McD’s app account within approximately twenty-four hours. MyMcDonald’s Rewards Points expire on the first day of the month after the sixth month from the date such points were deposited, except where prohibited by law. MyMcDonald’s Rewards Points are not assignable or transferrable between accounts or otherwise, and points cannot be combined across accounts, regardless of who registered the account. Limit one redemption per order. Use of MyMcDonald’s Rewards Points are subject to the terms and conditions of the MyMcDonald’s Rewards program, available at <a href=\"https:\/\/www.mcdonalds.com\/ca\/en-ca\/terms-and-conditions\/loyaltyrewards.html\">www.mcdonalds.ca\/myrewardsterms<\/a> or on the McDonald’s app.",
+                        "answer-url": "https:\/\/www.mcdonalds.ca\/myrewardsterms"
+                    },
+                    {
+                        "question": "28. How do I claim a non-food Prize and non-MyMcDonald’s Rewards Points Prize in the Game?",
+                        "answer": "A claim for a non-food Prize and non-MyMcDonald’s Rewards Points Prize must be completed in the McD’s app by <strong>11:59:59 p.m. on March 24, 2025<\/strong>. Refer to Rule 6 of the Official Rules for complete details regarding the Prize Claim process. "
+                    },
+                    {
+                        "question": "29. I won a One-Year Subscription to Paramount+ Streaming Service, do I have to use a credit card when signing up?",
+                        "answer-url-1": "https:\/\/www.paramountplus.com\/",
+                        "answer": "Yes, Paramount+ requires a credit card on file to redeem the free One-Year Subscription to Paramount+ Streaming Service Prize. <br\/>\n\nEach verified winner of this Prize will receive a promotion code that the winner can use toward an annual subscription to the Paramount+ Canada Streaming Service Standard Plan. To access your entitlement to Paramount+, you must be a new or former Paramount+ subscriber, resident in Canada. Existing Paramount+ subscribers will be provided with further information in the prize confirmation email. To redeem the promotion code, visit <a href=\"https:\/\/www.paramountplus.com\/\">paramountplus.com<\/a>, register for a Paramount+ account (or sign-in), select the “Standard Annual” plan, provide valid payment details and enter the promotion code provided to you on the payment page. The promotion code cannot be redeemed on the Paramount+ app. If your device pushes you to the Paramount+ app, delete the app and start again. You must use the promotion code by no later than <strong>11:59:59 p.m. LT on August 7, 2025<\/strong>. For any queries or issues with the Paramount+ offer and how it works, please contact Paramount+ directly via contact form (<a href=\"https:\/\/www.paramountplus.com\/contactsupport\">paramountplus.com\/contactsupport<\/a>) or email (<a href=\"mailto:support{'@'}paramountplus.com\">support{'@'}paramountplus.com<\/a>). Your Paramount+ subscription will automatically renew at the end of the initial subscription period, and the payment method saved to your account will automatically be charged the recurring annual subscription fee, plus applicable taxes, until you cancel. You can cancel your subscription to Paramount+ at any time. If you cancel your subscription, the cancellation will go into effect at the end of your current subscription period. You must be the age of majority or older to subscribe. Your code cannot be resold, transferred, returned, exchanged or redeemed for cash nor can it be combined with any other offer, free trial or promotion. Your subscription to Paramount+ and use of the Paramount+ service is subject to the Paramount+ Subscription Agreement (<a href=\"https:\/\/pplus.legal\/subscription\">https:\/\/pplus.legal\/subscription<\/a>) and the Paramount Global Privacy Policy (<a href=\"https:\/\/privacy.paramount.com\/en\/policy\">https:\/\/privacy.paramount.com\/en\/policy<\/a>). Paramount+ requires Internet access and a compatible device, neither of which are provided as part of your subscription. You are responsible for all Internet access charges in connection with your use of Paramount+. Information to claim this Prize is in Rule 6. Claim this Prize in the McD’s app when you tap on the promotional banner, tap on “Claim Prize” by <strong>11:59:59 p.m. on March 24, 2025<\/strong>, and provide the information to complete your Prize Claim. The retail value of an annual subscription to the Paramount+ Canada Streaming Service may vary from the ARV: $97.99 (+tax).",
+                        "answer-url-2": "https:\/\/paramountplus.com\/contactsupport",
+                        "answer-url-3": "support{'@'}paramountplus.com",
+                        "answer-url-4": "https:\/\/pplus.legal\/subscription",
+                        "answer-url-5": "https:\/\/privacy.paramount.com\/en\/policy"
+                    },
+                    {
+                        "question": "30. Should I throw away my Game Stamps once I scan or enter them in the McDonald’s app?",
+                        "answer": "<strong>No<\/strong>. You <strong>must save<\/strong> your original Game Stamps! The Redemption Centre may ask you to submit the Game Stamp(s) during the winner verification process in order to claim the applicable Prize."
+                    },
+                    {
+                        "question": "31. Is there a daily limit of how many Codes I can enter per day?",
+                        "answer": "There is a limit of ten Game Code entries per day (for the purposes of this limitation only, a “day” begins at 12:00:00 a.m. Eastern Time (“<strong>ET<\/strong>”) and ends at 11:59:59 p.m. ET)."
+                    }
+                ]
+            }
+        ],
+        "additional": "Can’t find an answer to your question? Need additional help?",
+        "note-2": "<strong>Notes : <\/strong> <br\/>\nThere is a limit of ten Game Code entries per day (for the purposes of this limitation only, a “day” begins at 12:00:00 a.m. Eastern Time (“ET”) and ends at 11:59:59 p.m. ET).<br\/><br\/>\nThere is no limit to the number of Prizes that a Participant can win in the Game. However, per the Official Rules and FAQ 7 below, there is a limit of 10,000 Bonus Rewards Points per McD’s app account during the Game. There is a limit of one McD’s app account per Participant.",
+        "subcontent-note": "If you have questions about either of the two topics below, please contact McDonald’s Customer Service directly at the links provided below. ",
+        "subcontent": {
+            "list-item": "<ul>\n<li>For questions regarding downloading the McDonald’s app, registering to use the McDonald’s app and general use of the McDonald’s app: <a href=\"https:\/\/www.mcdonalds.com\/ca\/en-ca\/contact-us.html\">https:\/\/www.mcdonalds.com\/ca\/en-ca\/contact-us.html<\/a><\/li>\n<li>For questions about MyMcDonald’s Rewards Points Prizes in your McDonald’s app account: <a href=\"https:\/\/www.mcdonalds.com\/ca\/en-ca\/contact-us.html\">https:\/\/www.mcdonalds.com\/ca\/en-ca\/contact-us.html<\/a><\/li>\n<\/ul>",
+            "list-item-url-1": "",
+            "list-item-url": "https:\/\/www.mcdonalds.com\/ca\/en-ca\/contact-us.html"
+        },
+        "subtitle_content": {
+            "list-item-url-2": ""
+        },
+        "subtitle-2": "You must have the McDonald’s app to participate and\/or to claim prizes!",
+        "note-url-1": "https:\/\/www.mcdonalds.com\/ca\/en-ca\/accessibility.html"
+    },
+    "rules": {
+        "title": "Want Prize with That Official Rules"
+    },
+    "contact-us": {
+        "title": "Have a Question?",
+        "subtitle": "Use the form below to send us your question or comment and we’ll get back to you.",
+        "required-message": "*indicates required field",
+        "required-alt": "Required",
+        "form-aria-label": "",
+        "first-name-label": "*First Name",
+        "last-name-label": "*Last Name",
+        "phone-label": "*Phone",
+        "email-label": "*Email",
+        "confirm-email-label": "Email Confirmation",
+        "category-label": "What can we help you with?",
+        "category-select-label": "*Select from the following:",
+        "message-label": "*Write your message",
+        "characters-remaining": "Characters remaining :",
+        "button-text": "Submit",
+        "message-placeholder": "Provide a detailed description of the issue you are having, including any prize or game stamp code…"
+    },
+    "contact-us-completed": {
+        "title": "Message Sent!",
+        "content": "Thank you. Your message has successfully been sent. You will receive a response in a timely manner.",
+        "button-text": "Return Home"
+    },
+    "error": {
+        "404": {
+            "title": "No Luck!",
+            "body": "404 Error. The page you’re looking for was not found.",
+            "button-text": "Return Home"
+        },
+        "401": {
+            "title": "",
+            "body": ""
+        },
+        "server": {
+            "title": "Hmmm...",
+            "body": "There is a server error.",
+            "button-text": "Return Home"
+        },
+        "maintenance": {
+            "title": "Under Construction",
+            "body": "We’re down for maintenance.<br\/>Come back soon!",
+            "button-text": "Return Home"
+        },
+        "javascript": {
+            "title": "Something’s<br\/>Not Right",
+            "body": "JavaScript must be enabled.",
+            "button-text": "Return Home"
+        },
+        "browser": {
+            "title": "We Don’t Know<span class=\"br\"><\/span>That Browser.",
+            "body-1": "Sorry, your browser is not supported.<br\/>For an optimal experience, please consider the options below:",
+            "body-2": "<strong>1. Browser:<\/strong><span class=\"br\"><\/span>Update your browser to a current version.<br>Google Chrome<\/br><br>Safari<\/br><br>Microsoft Edge<\/br>",
+            "body-4": "<strong>Please note:<\/strong><span class=\"br\"><\/span>If you wish to continue with your current browser or device, your experience may not be optimal. You may not be able to use certain functions and you may not be able to participate in the promotion.",
+            "button-text": "Continue"
+        },
+        "cookies": {
+            "title": "Hold On!",
+            "body": "Cookies must be enabled.",
+            "button-text": "Return Home"
+        },
+        "api": {
+            "title": "Sorry, Prize Claim<br\/>Not Submitted",
+            "body": "There was an issue with our system when trying to submit your Prize Claim. Please come back later and resubmit your Prize Claim.",
+            "button-text": "Return Home"
+        },
+        "generic": {
+            "title": "Hmmm...",
+            "body": "There is a server error.",
+            "button-text": "Return Home"
+        },
+        "session-timed-out": {
+            "button-text": "Close",
+            "body": "There was an issue with our system when trying to submit your Prize Claim. Please come back later and resubmit your Prize Claim.",
+            "title": "Session Timed out"
+        },
+        "limit-reached": {
+            "title": "Daily Limit Reached",
+            "body": "You have reached the daily limit of code entries, but you may come back any time after 12:00:01 a.m. ET through 3\/24\/2025 to enter more codes.",
+            "button-text": "Home"
+        },
+        "session-timed-out-redirect": {
+            "title": "Session Timed out",
+            "body": "Due to inactivity, your session has timed out. To relaunch the experience, please select the Want Prize With That? tile in the McDonald's app.",
+            "button-text": "Close"
+        }
+    },
+    "meta-title": {
+        "home": "Home %% 2025 Want Prize with That at McDonald's",
+        "login": "",
+        "login-please": "",
+        "forgot-password": "",
+        "forgot-password-confirmed": "",
+        "reset-password": "",
+        "reset-password-confirmed": "",
+        "prizes": "Prizes %% 2025 Want Prize with That at McDonald's",
+        "winners": "Winners %% 2025 Want Prize with That at McDonald's",
+        "my-account": "Code History %% 2025 Want Prize with That at McDonald's",
+        "rewards": "",
+        "rewards-loggedin": "",
+        "menu-items": "Participating Menu Items %% 2025 Want Prize with That at McDonald's",
+        "faqs": "FAQs %% 2025 Want Prize with That at McDonald's",
+        "how-to-claim": "Claim Prize %% How to Claim %% 2025 Want Prize with That at McDonald’s",
+        "stq-interruptor": "Code Entry  STQ Incomplete %% 2025 Want Prize with That at McDonald’s",
+        "stq-challenge": "Skill-Testing Question %% 2025 Want Prize with That at McDonald’s",
+        "stq-incorrect": "Skill-Testing Question Incorrect Answer %% 2025 Want Prize with That at McDonald’s",
+        "stq-failed": "Skill-Testing Question Lock Out %% 2025 Want Prize with That at McDonald’s",
+        "add-code": "Code Entry %% Enter Code %% 2025 Want Prize with That at McDonald's",
+        "scan-results": "Code Entry %% Scan Success %% 2025 Want Prize with That at McDonald's",
+        "code-confirmation": "Code Entry Confirmation %% 2025 Want Prize with That at McDonald's",
+        "code-confirmation-property": "Code Entry Confirmation %% 2025 Want Prize with That at McDonald's",
+        "code-confirmation-monopoly": "Code Entry Confirmation %% 2025 Want Prize with That at McDonald's",
+        "code-confirmation-prize": "Code Entry Confirmation %% 2025 Want Prize with That at McDonald's",
+        "code-confirmation-mcdcard": "Code Entry Confirmation %% 2025 Want Prize with That at McDonald's",
+        "code-confirmation-fooddelivery": "Code Entry Confirmation %% 2025 Want Prize with That at McDonald's",
+        "code-confirmation-points": "Confirmation %% MMR Points %% 2025 Want Prize with That at McDonald's",
+        "code-entry-error-invalid": "Code Error %% Invalid %% 2025 Want Prize with That at McDonald's",
+        "code-entry-error-duplicate": "Code Error %% Code Already Used %% 2025 Want Prize with That at McDonald's",
+        "mmr-winner-points": "Peel Results %% Digital MMR Prizes %% 2025 Want Prize with That at McDonald’s",
+        "collections": "Code Collection %% 2025 Want Prize with That at McDonald's",
+        "contact-us": "Contact Us %% 2025 Want Prize with That at McDonald's",
+        "sitemap": "Sitemap %% 2025 Want Prize with That at McDonald's",
+        "contact-us-confirmed": "Contact Us Confirmation %% 2025 Want Prize with That at McDonald’s",
+        "claim-prize": "Start the Prize Claim Process %% 2025 Want Prize with That at McDonald's",
+        "start-claim-minor": "Interruptor %% Parent or Guardian to Continue %% 2025 Want Prize with That at McDonald’s",
+        "start-claim-guardian": "Interruptor %% Parent or Guardian Confirmation %% 2025 Want Prize with That at McDonald’s",
+        "prize-terms": "PII %% Terms & Conditions McD Card %% 2025 Want Prize with That at McDonald’s",
+        "full-registration": "PII %% Address - Form Review McD %% 2025 Want Prize with That at McDonald’s",
+        "address-correction": "PII %% Address McD Card %% 2025 Want Prize with That at McDonald’s",
+        "form-review": "PII %% Address - Form Review McD %% 2025 Want Prize with That at McDonald’s",
+        "declaration-needed": "Declaration & Release %% 2025 Want Prize with That at McDonald's",
+        "finish": "Declaration & Release %% No Declaration %% 2025 Want Prize with That at McDonald’s",
+        "finish-ppc-prize": "Declaration & Release %% No Declaration %% 2025 Want Prize with That at McDonald’s",
+        "finish-physical-prize": "Declaration & Release %% No Declaration %% 2025 Want Prize with That at McDonald’s",
+        "finish-mcd-card": "Declaration & Release %% No Declaration %% 2025 Want Prize with That at McDonald’s",
+        "finish-hbc": "Declaration & Release %% No Declaration %% 2025 Want Prize with That at McDonald’s",
+        "finish-delivery-alt": "Declaration & Release %% No Declaration %% 2025 Want Prize with That at McDonald’s",
+        "prize-forfeited": "Prize Forfeited %% 2025 Want Prize with That at McDonald's",
+        "rules": "Official Rules %% 2025 Want Prize with That at McDonald's",
+        "error-browser": "Browser Not Supported %% 2025 Want Prize with That at McDonald's",
+        "error-cookie": "Cookies Error %% 2025 Want Prize with That at McDonald's",
+        "error-four-oh-four": "404 Error %% 2025 Want Prize with That at McDonald's",
+        "error-maintenance": "Maintenance Error %% 2025 Want Prize with That at McDonald's",
+        "error-javascript": "Javascript Error %% 2025 Want Prize with That at McDonald's",
+        "error-reset-expired": "",
+        "error-403": "",
+        "error-401": "",
+        "error-server": "Server Error %% 2025 Want Prize with That at McDonald's",
+        "error-api": "API Failure Error %% McDonald’s",
+        "error-session": "",
+        "error-api-delay": "API Failure Error %% McDonald's"
+    },
+    "privacy-bumper": {
+        "title": "See You Later!",
+        "content": "You are leaving the McDonald’s Restaurants of Canada Limited website for a site that is controlled by a third party, not affiliated with McDonald’s. The content and policies, including the privacy policy, on the site you are entering may vary from McDonald’s viewpoints and policies. Please be sure to review the policies of every site you visit. McDonald’s is not responsible for the opinions, policies, statements or practices of any other companies, such as those that may be expressed in the website you are entering.",
+        "confirm-button-text": "Yes, Continue",
+        "cancel-button-text": "No, Cancel"
+    },
+    "session-timeout-bumper": {
+        "title": "Warning! Your session will be timed out in {minutes} minutes",
+        "title-less-than": "Warning! You Will Be Logged Out In Less than 1 Minute.",
+        "content": "You are leaving the McDonald’s Restaurants of Canada Limited website for a site that is controlled by a third party, not affiliated with McDonald’s. The content and policies, including the privacy policy, on the site you are entering may vary from McDonald’s viewpoints and policies. Please be sure to review the policies of every site you visit. McDonald’s is not responsible for the opinions, policies, statements or practices of any other companies, such as those that may be expressed in the website you are entering.",
+        "continue-button-text": "I wish to Continue"
+    },
+    "claim-exit-bumper": {
+        "title": "You have not completed the Claim Process",
+        "content": "You are attempting to leave the Claim Process for your prize before completion. Leaving now will delete any data previously entered. When you return to claim your Prize, you will have to enter all of your information again.",
+        "back-button-text": "Leave",
+        "continue-button-text": "Continue"
+    },
+    "sitemap": {
+        "title": "Sitemap",
+        "link": {
+            "home": "Home",
+            "code-entry": "Scan Code",
+            "faqs": "Frequently Asked Questions",
+            "rules": "Rules & FAQ<span class='subscript'>s<\/span>"
+        }
+    },
+    "common": {
+        "prize": {
+            "hash": "#"
+        },
+        "loading": {
+            "alt": "Loading..."
+        },
+        "modal": {
+            "close-button-alt": "Close"
+        },
+        "accordion": {
+            "expand": "Expand",
+            "collapse": "Collapse"
+        },
+        "carousel": {
+            "prev-alt": "Previous",
+            "next-alt": "Next",
+            "bullet-alt": "Item {index}",
+            "bullet-active": "Current"
+        },
+        "contact-categories": {
+            "App": "McDonald's app Issues",
+            "Points": "MyMcDonald's Rewards Points",
+            "Prizes": "Prizes",
+            "Code": "Code Entry",
+            "Technical": "Tech or General"
+        },
+        "links": {
+            "mcdonalds": "https:\/\/www.mcdonalds.com\/ca\/en-ca.html"
+        },
+        "terms-conditions": {
+            "content-1": "<strong>Please acknowledge the following: <\/strong><br\/>\n\n<strong>Terms & Conditions<\/strong><br\/>\n\n<strong>Note:<\/strong> Where the potential winner is a Minor, I, the Parent\/Legal Guardian, confirm the below and acknowledge that I am legally authorized to bind the Minor to these Terms & Conditions.<br\/>",
+            "content-2": "<strong>(A)  COMPLIANCE WITH OFFICIAL RULES.<\/strong> I have <strong>carefully<\/strong> read, fully understand and agree to the <a href=\"\/pdf\/rules\">Official Rules<\/a> (the “<strong>Official Rules<\/strong>”) for the “<strong>Want PRIZE With That?<sup>™<\/sup><\/strong>” <strong>Game At McDonald’s<\/strong> (the “<strong>Game<\/strong>”). I hereby represent to McDonald’s Restaurants of Canada Limited (the “<strong>Sponsor<\/strong>”) that:\n<ul>\n<li>I have complied with the Official Rules including the eligibility requirements;<\/li>\n<li>I obtained my Game Stamp(s) through authorized, legitimate channels; and<\/li>\n<li>I have committed no fraud or deception in connection with my participation in the Game. <\/li>\n<\/ul>\nDepending on the specific prize (“<strong>Prize<\/strong>”) that I am eligible to win, I may also be required to complete and return a Declaration and Release form. If I fail to meet these requirements, I understand that I will forfeit the Prize.",
+            "content-3": "<strong>(B) PRIZE ACCEPTANCE.<\/strong> <br\/>\nIf and once I am confirmed as a Prize winner, I agree to accept the Prize as awarded and acknowledge that the Prize is subject to the conditions set out in the Official Rules, and that I am responsible for any expenses other than those set out in the Official Rules as included in the Prize. ",
+            "content-4": "<strong>(C) LIABILITY RELEASE. <\/strong><br\/>\n\nFor myself, and my heirs, executors and administrators, I hereby release and agree to hold the Sponsor, the Prize Partners, the Redemption Centre (all as defined in the Official Rules) and their respective parent companies, subsidiaries, affiliated or related companies, divisions, advertising and promotional agencies, franchisees, independent contractors, representatives and service agencies (the “<strong>Releasees<\/strong>”), and every director, officer, employee, agent, manager and member of any one or more of the Releasees, harmless from and against any and all costs, injuries, losses or damages of any kind, including, without limitation, death, bodily injury and property or other damage or loss, due in whole or in part, directly or indirectly, to participation in the Game or in any activity related to the Game, or participation in any Prize-related activity or activities, or due in whole or in part to the receipt, use or misuse of any Prize or any part or parts of any Prize. I also waive the right to assert as a cost of winning any Prize, any and all costs of verification and redemption or travel to claim said Prize and any liability and publicity which might arise from claiming or seeking to claim said Prize. I acknowledge that the Releasees make no warranty (including implied warranty), guarantee or representation of any kind concerning the Prize. I further agree that by accepting the Prize, I waive all recourse against the Releasees if the Prize or a component thereof does not prove satisfactory, either in whole or in part.",
+            "content-5": "<strong>(D) PUBLICITY CONSENT. <\/strong><br\/> \n\nI hereby grant the Sponsor and the Prize Partners the right, but not the obligation, to use my name, voice and likeness, along with my address (city\/town and province\/territory) and any statements made by or attributed to me in any and all media (including the Internet), now known or hereafter devised, in perpetuity and throughout the universe, for advertising and promotional purposes in connection with the Game and\/or in connection with other of the Sponsor’s promotions (including, without limitation, any future Game) and\/or in connection with any future or other contest or game or competition or promotion of the Sponsor or competition or communications about any future or other contest or game or competition or promotion of the Sponsor or presented or promoted in whole or in part by the Sponsor, without further notice, review, approval or compensation. I also understand that my first name, first initial of my last name, town\/city and province\/territory of residence may be posted on the Sponsor’s website and\/or on social media websites, and I consent to such disclosure. I hereby release the Releasees and all of the directors, officers, employees, agents, managers and members of any one of the Releasees from any and all liability with respect thereto.<br\/>\n\n<strong>a.<\/strong> In consideration of my being awarded a Prize in the Game, I agree to participate fully and without compensation in any announcement(s) and\/or presentation ceremony\/ceremonies and\/or other event or events organized or presented by the Sponsor in its sole discretion related to the granting of a Prize to me including the use and enjoyment of that Prize, including, without limitation, press events before, during and\/or after the completion of any travel encompassed in or related to the Prize (if applicable). <br\/>\n\n<strong>b. Privacy.<\/strong> I understand that the Sponsor collects, uses and discloses my personal information as part of my Prize redemption in connection with the Game. Furthermore, subject to the Official Rules, my personal information may be shared with the Sponsor’s Prize Partners to the extent necessary to fulfill Prizes. The “<strong>Want PRIZE With That?<sup>™<\/sup><\/strong>” <strong>Game<\/strong> interface in the McD’s app is hosted on servers in the United States, and the personal information I provide may therefore be subject to the laws of the United States. Each Prize Partner has its own online privacy policy that differs from the Sponsor’s privacy policy applicable to the McD’s app, and I understand that the Sponsor encourages Participants to review the privacy policy of any other website they may visit. Except as otherwise contemplated above or otherwise in the Official Rules, information collected by the Sponsor in connection with the Game will be used by the Sponsor in accordance with the Sponsor’s <u>Online Privacy Policy<\/u>. I understand that, subject to applicable law, I have the right to withdraw consent to the processing of my personal information by contacting the Sponsor’s Privacy Manager at 1 (888) 424-4622 or <a href=\"mailto:privacymanager{'@'}ca.mcd.com\">privacymanager{'@'}ca.mcd.com<\/a>. Withdrawing consent may impact my ability to play the Game or win a Prize.",
+            "content-url-5-email": "privacymanager{'@'}ca.mcd.com",
+            "content-url-5-online-privacy-policy": "",
+            "content-url-2-official-rules": ""
+        }
+    },
+    "legal": {
+        "Asterisk_To": "* Skip to legal disclaimer",
+        "Asterisk_From": "* Return to prize description",
+        "Caret_To": "<span class='superscript'>^<\/span> Skip to prize disclaimer",
+        "Caret_From": "<span class='superscript'>^<\/span> Return to prize description",
+        "Diamond_To": "◆ Skip to cash disclaimer",
+        "Diamond_From": "◆ Return to prize description",
+        "SymbolCaret": "<span class='superscript'>^<\/span>",
+        "SymbolDCaret": "“<span class='superscript'>^<\/span><span class='superscript'>^<\/span>”",
+        "SymbolDAsterisk": "“**”",
+        "SymbolDCross": "‡"
+    },
+    "canada": {
+        "states": {
+            "alberta": "Alberta",
+            "british-columbia": "British Columbia",
+            "manitoba": "Manitoba",
+            "ontario": "Ontario",
+            "prince-edward-island": "Prince Edward Island",
+            "quebec": "Quebec",
+            "saskatchewan": "Saskatchewan",
+            "new-brunswick": "New Brunswick",
+            "newfoundland-labrador": "Newfoundland and Labrador",
+            "northwest-territories": "Northwest Territories",
+            "nova-scotia": "Nova Scotia",
+            "nunavut": "Nunavut",
+            "yukon": "Yukon"
+        },
+        "address-types": {
+            "apartment": "Apartment",
+            "condo": "Condominium (Condo)",
+            "dormitory": "Dormitory",
+            "duplex": "Duplex \/ Triplex \/ Quadruplex",
+            "multi-family": "Multi-Family Building",
+            "shared": "Shared Family Building",
+            "single-family": "Single-Family Home"
+        }
+    },
+    "errors": {
+        "E-1": "There is 1 error in this form.",
+        "E-M1": "There are ",
+        "E-M2": " errors in this form.",
+        "E-Req": "Required",
+        "E01": "Error: Please enter a valid email address.",
+        "E02": "Error: Emails do not match.",
+        "E03": "",
+        "E03L": "",
+        "E03A": "",
+        "E04": "",
+        "E05": "",
+        "E05A": "",
+        "E06": "",
+        "E07": "",
+        "E08": "",
+        "E09": "",
+        "E10": "Error: Please enter a valid contact number comprised of ten digits in length.",
+        "E11": "",
+        "E12": "",
+        "E13": "",
+        "E14": "",
+        "E15": "Error: Please enter a valid First Name between 2 and 30 characters in length.",
+        "E16": "Error: Please enter a valid Last Name between 2 and 30 characters in length.",
+        "E17": "Error: Please enter a message.",
+        "E18": "Error: Please select your type of question.",
+        "E19": "",
+        "E20": "",
+        "E21": "",
+        "E22": "",
+        "E23": "",
+        "E24": "Error: Please enter a valid minor’s first name between 2 and 30 characters in length.",
+        "E25": "Error: Please enter a valid minor’s last name between 2 and 30 characters in length.",
+        "E26": "Error: Please choose your Province\/Territory.",
+        "E27": "Error: Please enter a valid city or town between 1 and 40 characters in length.",
+        "E28": "Error: Please check the box to agree to the Terms and Conditions and Privacy Policy.",
+        "E29": "Error: Parent\/Guardian email cannot match your email address.",
+        "E30": "",
+        "E31": "There are 1 or more error(s) on this page.",
+        "E32": "Error: Please enter a valid address including street number and name of street.",
+        "E33": "Error: Please enter a valid address including street number and name of street.",
+        "E34": "Error: Please enter a valid McDonald’s Card number.",
+        "E35": "",
+        "E36": "Error: Please select which address you want to use.",
+        "E37": "Error: Code entered is invalid.",
+        "E38": "Error: Code entered is invalid.",
+        "E39": "Error: Code already used.",
+        "E40": "Error: The consumer was not found.",
+        "E41": "",
+        "E42": "Error: You have reached the maximum amount of daily game code entries. You can return again tomorrow and through March 24th, 2025 to enter more game codes.",
+        "E43": "Error: Please enter valid additional Apt\/Building\/Floor\/Suite\/Unit postal information.",
+        "CE01": "Error: Please enter a valid 6-character alphanumeric Postal Code.",
+        "CE02": "Error: Please confirm if you are an adult or a minor.",
+        "CE03": "Error: Please Contact Us for assistance and reference IC21.",
+        "CE03-A": "Error: Please ",
+        "CE03-B": "Contact Us",
+        "CE03-C": " for assistance and reference IC23.",
+        "CE05": "Consumer does not select either Adult or Minor on short registration.",
+        "CE06": "",
+        "CE07": "Error: Please choose your Province\/Territory.",
+        "CE08": "Error: Please enter a valid 6-character alphanumeric Postal Code.",
+        "CE09": "",
+        "CE04": "Error message when appropriate"
+    },
+    "Error: Please Contact Us for assistance and reference IC23.": "Error: Please Contact Us for assistance and reference IC23.",
+    "Error: We already have an account with this email. Please log in instead": "",
+    "Question about claiming a Prize? Visit Contact Us.": "Question about claiming a prize? <u>Visit FAQs<\/u>.",
+    "Have additional questions? Visit our FAQs.": "Have additional questions? Visit our FAQs.",
+    "forms": {
+        "details": "See details",
+        "acknowledge": "Please acknowledge the following:",
+        "error-summary": "Error summary"
+    },
+    "completion": {
+        "physical-prize": {
+            "title": "Based on the information you provided you have successfully completed the online claim verification process to receive {prize name}.",
+            "subtitle": "You are not required at this time to mail in your original Game Stamp, but you should keep that original Game Stamp in your records.",
+            "content": "Your {prize name} will be shipped to the address provided during the claim process in six  to eight  weeks."
+        }
+    },
+    "Week 1 Winner": "Week 1 Winner:",
+    "Week 2 Winner": "Week 2 Winner:",
+    "Week 3 Winner": "Week 3 Winner:",
+    "TO BE ANNOUNCED": "To be announced",
+    "Week 4 Winner": "Week 4 Winner:",
+    "contact-us-text": "<u>Contact us<\/u>",
+    "email": {
+        "prize-partner-fulfillment": {
+            "title": "Congrats! <br\/>\u2028You got a PRIZE with that!",
+            "content-1": "<p>Based on the information provided, you have successfully completed the online redemption verification process to receive {prizeName}.You are not required at this time to mail in your original Game Stamp, but you should keep that original Game Stamp in your records.<\/p>Please check the email address provided in the course of the Prize claim process for additional instructions to redeem your {prizeName}.",
+            "subtitle": "Prize information",
+            "content-2": "You are not required at this time to mail in your original Game Stamp(s), but you should keep the original Game Stamp(s) in your records.",
+            "content-3": "Your prize will be sent to the address provided to us during the online redemption process, within approximately four to six weeks or in accordance with the Official Rules.",
+            "bottom-content": "Please do not respond to this email.<br\/>Questions? Visit the <u>Contact Us form<\/u>.<br\/>Concerned about privacy? Visit the <u>McDonald’s Privacy Policy<\/u>."
+        },
+        "walmart": {
+            "title": "Congrats! <br\/>\u2028You got a PRIZE with that!",
+            "content-1": "Based on the claim submitted you have successfully completed the online prize claim process to receive your <strong>$50 Walmart Gift Card prize<\/strong>!",
+            "subtitle": "Prize information",
+            "content-2": "Your prize redemption URL is:<br\/><unique URL>  \n  \nPlease use the link above to access your prize and use the instructions below to redeem your prize.  <br\/>\n  \nInstructions to redeem: <br\/>\n\n<ol>\n<li>To use your Walmart Canada Gift Card\nas payment in-store, simply present a printed copy of your card in any Walmart Canada store or display it on your mobile device – to redeem at any Self Checkout location, select “Gift Card” as your payment method, and scan your phone\nor printout.<\/li>\n<li>To use as payment on the Walmart website, input the 16-digit card number\nand 4-digit PIN when you select \"Pay with Walmart Gift Card\" at checkout. <\/li>\n <\/ol>\n\nFor balance inquires please call: 1-888-537-5503  <br\/>\nFor any other inquiries, please call Buyatab customer support at: 1-833-429-9451 or email: <u>walmartcanada@buyatab.com<\/u> \n\nPlease note that your Walmart Gift Card<br\/>\ndoes not expire.",
+            "bottom-content": "Please do not respond to this email.<br\/>Questions? Visit the <u>Contact Us form<\/u>.<br\/>Concerned about privacy? Visit the <u>McDonald’s Privacy Policy<\/u>."
+        },
+        "vasanti": {
+            "title": "Congrats! <br\/>\u2028You got a PRIZE with that!",
+            "content": "Based on the claim submitted you have successfully completed the online prize claim process to receive your <strong>$35 Vasanti Cosmetics eGift Code prize<\/strong>!",
+            "subtitle": "Prize information",
+            "link-en-url": "https:\/\/vasanticosmetics.ca\/pages\/wantprizewiththat",
+            "link-fr-url": "https:\/\/vasanticosmetics.ca\/fr\/pages\/wantprizewiththat ",
+            "bottom-content": "Please do not respond to this email.<br\/>Questions? Visit the <u>Contact Us form<\/u>.<br\/>Concerned about privacy? Visit the <u>McDonald’s Privacy Policy<\/u>.",
+            "content-2": "Your prize redemption code is:<br\/>\n<unique code>\nPlease use the link below to open a new browser window (or print this document),<br\/>\nso you can have the following instructions available while claiming your prize. <br\/>\n<u>VasantiCosmetics.ca<\/u>\nInstructions to redeem:<br\/>\n<ol>\n<li>Visit at our website and select your products for redemption <\/li>\n<li>Initiate the Checkout process<\/li>\n<li>Enter your eGift Code in the ‘Gift card or discount code’ field<\/li>\n<li>Press the ‘Apply’ button to redeem your eGift Code<\/li>\n<li>Complete the Checkout process to place your order.<\/li>\n<\/ol>\nPlease note that you must use your code and redeem your prize by May 31, 2025 at 11:59 pm EST, or your prize will be forfeited.<br\/>\nIf you need help with your you can contact a representative at support@vasanticosmetics.com. "
+        },
+        "skip": {
+            "title": "Congrats!<br\/>You got a PRIZE with that!",
+            "content": "Based on the claim submitted you have successfully completed the online prize claim process to receive your <strong>$25 Skip eGift Code prize<\/strong>! ",
+            "subtitle": "Prize information",
+            "content-2": "Your prize redemption code is:<br\/>\n<unique code>  \n  \nPlease use the link below to open a new browser window (or print this document),\nso you can have the following instructions available while claiming your prize.  <br\/>\n \n<u>Skip<\/u><br\/>\n \nInstructions to redeem:<br\/>\n<ol>\n<li>In order to redeem your gift card\/code please open\/download the Skip App. Create an account or log in to an\nexisting account.<\/li>\n<li>Go to the top right corner of your screen and select the profile icon. When the profile icon is selected, pick \"Gift Cards\" from the menu below.<\/li>\n<li>Enter your unique gift code PIN<\/li>\n<li>Once redeemed, your gift card will automatically be applied to your account and you can use it on your next orders. <\/li>\n<\/ol>\n\nSkip Codes do not expire. <br\/>\n \nIf you need help with your $25 Skip eGift Code, please click “Need Help?” on the app\/website to chat with a live customer support representative. ",
+            "link-en-url": "https:\/\/www.skipthedishes.com\/",
+            "link-fr-url": "https:\/\/www.skipthedishes.com\/fr\/",
+            "bottom-content": "Please do not respond to this email.<br\/>Questions? Visit the <u>Contact Us form<\/u>.<br\/>Concerned about privacy? Visit the <u>McDonald’s Privacy Policy<\/u>."
+        },
+        "paramount": {
+            "title": "Congratulations!<br\/> You’re a Winner!",
+            "content": "Based on the claim submitted, you have successfully completed the online prize claim process to receive your <strong>One Year Subscription to Paramount+ prize<\/strong>!",
+            "subtitle": "Prize information",
+            "content-2": "<strong>Instructions to redeem:<\/strong><br\/>\nFollow these steps to redeem your code for a <strong>One Year Subscription to <u>Paramount+<\/u> on us<\/strong>*: <br\/>\n\n<ol>\n\t<li>Step 1: Visit <u>www.paramountplus.com<\/u><\/li>  \n\t<li>Step 2: Create an account (or sign-in)<\/li>\n\t<li>Step 3: Select “Standard”<\/li>\n\t<li>Step 4: Select “Annual”<\/li>\n\t<li>Step 5: On the payment page, enter your payment details and your code to enjoy <u>Paramount+<\/u><\/li>\n<\/ol><br\/>\n\n<em>* Standard Annual Plan only. After first year, auto-renews at the then regular annual price (currently, $97.99\/yr (+tax)) until cancelled. New and former subscribers only. Must be the age of majority or above to subscribe. Payment method is required on file to redeem this prize.  If you are currently subscribed to <u>Paramount+<\/u>, to use this prize code, please wait until your existing subscription comes to an end and then use this code, which will not expire until August 7, 2025. Manage your subscription from where you originally bought it. For full prize terms, see Official Rules in the McDonald's app.<\/em><br\/>\n\nIf you are an existing <u>Paramount+<\/u> subscriber with a subscription that ends after August 7, 2025, please contact <u>Paramount+<\/u> directly via the contact form (<u>paramountplus.com\/contactsupport<\/u>) or email (<u>support@paramountplus.com<\/u>) for assistance in redeeming your prize. <br\/>\n\nIf you are an existing <u>Paramount+<\/u> subscriber but your subscription expires before August, 7, 2025, please follow the instructions above once your current subscription ends and use the redemption code by August 7, 2025.",
+            "bottom-content": "Please note that you must use your code and redeem your prize by August 7, 2025, or your prize will be forfeited.",
+            "link-url": "https:\/\/www.paramountplus.com\/",
+            "subtitle-content": "Your prize redemption code is: <unique code> <br\/>\n \nPlease use the link below to open a new browser window (or print this document), so you can have the following instructions available while redeeming your prize. ",
+            "support-link-url": "https:\/\/paramountplus.com\/contactsupport",
+            "bottom-content.2": "For any queries or issues with the Paramount+ prize and how it works, please contact Paramount+ directly via the contact form (<u>paramountplus.com\/contactsupport<\/u>) or email (<u>support@paramountplus.com<\/u>)"
+        },
+        "tropical-tree": {
+            "title": "Congrats!<br\/>You got a PRIZE with that!",
+            "content": "Based on the claim submitted you have successfully completed the online prize claim process to receive your <strong>$25 TropicalTree.com Gift Code prize<\/strong>!",
+            "subtitle": "Prize information",
+            "content-2": "Your prize redemption code is:<br\/>\n<unique code>  \n  \nPlease use the link below to open a new browser window (or print this document),\nso you can have the following instructions available while claiming your prize. <br\/> \n\n<u>TropicalTree.com<\/u><br\/>\n\nInstructions to redeem:<br\/>\n<ol>\n<li>Choose from any of the regularly priced items featured on our website.<\/li> \n<li>Once the items are added to your cart, you can enter your unique prize code at checkout.<\/li> \n<li>Enjoy your discount! And be sure to contact us if you have any issues redeeming your prize.<\/li> \n<\/ol>\n\nPlease note that you must use your code and redeem your prize by May 31, 2025, at 11:59:59 p.m. ET, or your prize will be forfeited.  <br\/>\n \nIf you need help with your Tropical Tree, you can contact a representative at <u>orders@tropicaltree.com<\/u>.",
+            "bottom-content": "Please do not respond to this email.<br\/>Questions? Visit the <u>Contact Us form<\/u>.<br\/>Concerned about privacy? Visit the <u>McDonald’s Privacy Policy<\/u>.",
+            "link-en-url": "www.tropicaltree.com",
+            "link-fr-url": "www.tropicatree.com\/fr"
+        },
+        "guardian-claim": {
+            "title": "Congrats!<br\/>You got a PRIZE with that!",
+            "content": "Your child has been awarded a prize in the 2025 Want Prize With That?™ promotion. If you need to begin or finish claiming the prize at another time you can do so by following the steps below:",
+            "subtitle": "Claim Process Information",
+            "content-2": "<ol>\n<li>With your child, access the promotion from the McDonald’s app.<\/li>\n<li>Select the “Claim” icon in the bottom navigation. \n<ol>\n<li>The redemption process can be found on this page.<\/li>\n<li>The prizes available for claim will be shown on this page. <\/li>\n<\/ol>\n<\/li>\n<\/ol>",
+            "bottom-content": "Please do not respond to this email.<br\/>Questions? Visit the <u>Contact Us form<\/u>.<br\/>Concerned about privacy? Visit the <u>McDonald’s Privacy Policy<\/u>."
+        },
+        "food-delivery": {
+            "title": "Congrats!<br\/>You got a PRIZE with that!",
+            "content": "Based on the information provided, you have successfully completed the online redemption verification process to receive {prizeName}.",
+            "subtitle": "Prize information",
+            "content-2": "While you have been named a winner of a {prizeName} eGift code, the Postal Code you entered indicates that you do not reside in a delivery zone area for this prize partner. You will receive a substitute prize of a $25 McDonald’s Card.",
+            "content-3": "Your prize will be sent to the address provided to us during the online redemption process, within approximately four to six weeks or in accordance with the Official Rules.",
+            "bottom-content": "Please do not respond to this email.<br\/>Questions? Visit the <u>Contact Us form<\/u>.<br\/>Concerned about privacy? Visit the <u>McDonald’s Privacy Policy<\/u>."
+        },
+        "cash-prize": {
+            "title": "Congrats!<br\/>You got a PRIZE with that!",
+            "content": "Based on the claim submitted, you have successfully completed the online prize claim process to receive your <strong><$50> Cash^  prize<\/strong>!",
+            "subtitle": "Prize information",
+            "content-2": "Your prize will be sent to the address provided to us during the online prize claim process, within approximately four to six weeks.",
+            "bottom-content": "Please do not respond to this email.<br\/>Questions? Visit the <u>Contact Us form<\/u>.<br\/>Concerned about privacy? Visit the <u>McDonald’s Privacy Policy<\/u>."
+        }
+    },
+    "emailForm": {
+        "subject": "Prize claim confirmation | 2025 Want Prize With That? at McDonald's"
+    },
+    "questions": {
+        "1": "Multiply 5x4 <br\/>\nDivide by 10 <br\/>\nAdd 13 <br\/>\nSubtract 5",
+        "2": "Multiply 4x10 <br\/>\nDivide by 2 <br\/>\nAdd 10 <br\/>\nSubtract 6",
+        "3": "Multiply 2x12 <br\/>\nDivide by 6 <br\/>\nAdd 10 <br\/>\nSubtract 2",
+        "4": "Multiply 3x4 <br\/>\nDivide by 6 <br\/>\nAdd 18 <br\/>\nSubtract 3",
+        "5": "Multiply 3x8 <br\/>\nDivide by 4 <br\/>\nAdd 11 <br\/>\nSubtract 2",
+        "6": "Multiply 9x4 <br\/>\nDivide by 3 <br\/>\nAdd 3 <br\/>\nSubtract 10",
+        "7": "Multiply 8x5 <br\/>\nDivide by 4 <br\/>\nAdd 20 <br\/>\nSubtract 6",
+        "8": "Multiply 2x20 <br\/>\nDivide by 10 <br\/>\nAdd 12 <br\/>\nSubtract 5",
+        "9": "Multiply 6x7 <br\/>\nDivide by 2 <br\/>\nAdd 4 <br\/>\nSubtract 10",
+        "10": "Multiply 6x6 <br\/>\nDivide by 3 <br\/>\nAdd 8 <br\/>\nSubtract 2",
+        "251": "Multiply 5x4 <br\/>\nDivide by 10 <br\/>\nAdd 13 <br\/>\nSubtract 5",
+        "252": "Multiply 4x10 <br\/>\nDivide by 2 <br\/>\nAdd 10 <br\/>\nSubtract 6",
+        "253": "Multiply 2x12 <br\/>\nDivide by 6 <br\/>\nAdd 10 <br\/>\nSubtract 2",
+        "254": "Multiply 3x4 <br\/>\nDivide by 6 <br\/>\nAdd 18 <br\/>\nSubtract 3",
+        "255": "Multiply 3x8 <br\/>\nDivide by 4 <br\/>\nAdd 11 <br\/>\nSubtract 2",
+        "256": "Multiply 9x4 <br\/>\nDivide by 3 <br\/>\nAdd 3 <br\/>\nSubtract 10",
+        "257": "Multiply 8x5 <br\/>\nDivide by 4 <br\/>\nAdd 20 <br\/>\nSubtract 6",
+        "258": "Multiply 2x20 <br\/>\nDivide by 10 <br\/>\nAdd 12 <br\/>\nSubtract 5",
+        "259": "Multiply 6x7 <br\/>\nDivide by 2 <br\/>\nAdd 4 <br\/>\nSubtract 10",
+        "2510": "Multiply 6x6 <br\/>\nDivide by 3 <br\/>\nAdd 8 <br\/>\nSubtract 2",
+        "disabled": ""
+    }
+}
