@@ -19,7 +19,7 @@ jobs:
           api_token: 13faae115611f5d8ab0327b536e17e506b9b7aa2
           project_id: 9533556567c0a3d0951660.98914903
           translations_path: |
-            src/**
+            src/main/resources/locales
           base_lang: en
           file_format: properties
           flat_naming: true
