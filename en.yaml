@@ -14,7 +14,7 @@ accountCreation:
     labelPassword: "Set your password"
     passwordHint: "8 character minimum with a mix of numbers, uppercase, and lowercase
       letters"
-    termsAndConditionsLabel: "By checking this box you agree to the <a href=\"https://www.betterup.co/en-us/acceptable-use-policy\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"underline\">Acceptable Use Policy</a> and consent to the processing of personal information you choose to provide, which may include health-related or other sensitive personal information (as defined under applicable law), in accordance with the BetterUp <a href=\"https://www.betterup.co/privacy\" class=\"underline\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a>"
+    termsAndConditionsLabel: "By checking this box you agree to the Acceptable Use Policy and consent to the processing of personal information you choose to provide, which may include health-related or other sensitive personal information (as defined under applicable law), in accordance with the BetterUp <a href=\"https://www.betterup.co/privacy\" class=\"underline\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a>"
     termsAndConditionsPrivacyLabel: "By checking this box you consent to your data being used to receive tailored experiences using AI-enabled technologies, which may also be used to provide and improve certain features and aspects of the services"
     termsAndConditionsAiRequiredPrivacyLabel: "By checking this box you agree your data will be used to receive tailored experiences using AI-enabled technologies, which may also be used to provide and improve certain features and aspects of the services"
   
