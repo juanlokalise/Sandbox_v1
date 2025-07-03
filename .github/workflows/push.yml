@@ -19,7 +19,7 @@ jobs:
           file_format: properties
           # file_ext: properties
           translations_path: |
-            src/main/resources/locales/en_java.properties
+            src/main/resources/locales/
           base_lang: en
           flat_naming: true
 
