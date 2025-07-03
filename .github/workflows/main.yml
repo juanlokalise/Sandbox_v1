@@ -18,5 +18,5 @@ jobs:
           project_id: 9533556567c0a3d0951660.98914903
           file_format: JSON
           translations_path: |
-            %LANG_ISO%.%FORMAT%
+            en.yml
           base_lang: en
