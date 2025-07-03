@@ -20,3 +20,4 @@ jobs:
           translations_path: |
             src/main/resources/locales/en.java_properties.properties
           base_lang: en
+          flat_naming: true
