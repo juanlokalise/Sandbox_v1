@@ -6,8 +6,8 @@ jobs:
   build:  
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repo
-        uses: actions/checkout@v3
+      - name: asdasd
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
