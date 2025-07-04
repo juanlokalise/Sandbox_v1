@@ -25,8 +25,8 @@ jobs:
           flat_naming: true
           always_pull_base: true
           true additional_params: |
-            --indentation=2sp
             --export-empty-as=skip
             --export-sort=first_added
             --replace-breaks=false
-          # --language-mapping=[{"original_language_iso":"en_US","custom_language_iso":"en-US"}]
+        #   --indentation=2sp
+        #   --language-mapping=[{"original_language_iso":"en_US","custom_language_iso":"en-US"}]
