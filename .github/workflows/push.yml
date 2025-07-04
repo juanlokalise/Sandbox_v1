@@ -1,6 +1,5 @@
 name: Push to Lokalise  
-on:  
-  workflow_dispatch:
+on: push
 
 jobs:  
   build:  
