@@ -24,7 +24,8 @@ jobs:
           file_format: properties
           flat_naming: true
           always_pull_base: true
-          git_commit_message: "my commit message!"
+          git_commit_message: my commit message!
+          pr_labels: pull
           additional_params: |
             --export-empty-as=skip
             --export-sort=first_added
