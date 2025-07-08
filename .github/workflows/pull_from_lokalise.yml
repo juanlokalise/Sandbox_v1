@@ -30,6 +30,6 @@ jobs:
             --export-empty-as=skip
             --export-sort=first_added
             --replace-breaks=false
-            --include-tags=pull,main
+            --include-tags=juan
         #   --indentation=2sp
         #   --language-mapping=[{"original_language_iso":"en_US","custom_language_iso":"en-US"}]
