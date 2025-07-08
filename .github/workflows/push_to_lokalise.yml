@@ -22,6 +22,7 @@ jobs:
           base_lang: en
           file_format: properties
           flat_naming: true
+          rambo_mode: true
           use_tag_tracking: true
           additional_params: |
             --export-empty-as=skip
