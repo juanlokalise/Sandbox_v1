@@ -24,7 +24,7 @@ jobs:
           file_format: properties
           flat_naming: true
           always_pull_base: true
-          skip_include_tags: true
+          skip_original_filenames: true
           additional_params: |
             --export-empty-as=skip
             --export-sort=first_added
