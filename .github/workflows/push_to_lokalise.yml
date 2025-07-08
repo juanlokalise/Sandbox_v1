@@ -20,6 +20,7 @@ jobs:
           base_lang: en
           file_format: properties
           flat_naming: true
+          use_tag_tracking: true
           additional_params: |
             --export-empty-as=skip
             --export-sort=first_added
