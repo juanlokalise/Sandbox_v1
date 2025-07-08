@@ -25,8 +25,6 @@ jobs:
           rambo_mode: true
           use_tag_tracking: true
           additional_params: |
-            --export-empty-as=skip
-            --export-sort=first_added
             --replace-breaks=false
             --use-automation=true
             --replace-modified=true
