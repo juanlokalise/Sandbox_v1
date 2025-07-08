@@ -25,7 +25,7 @@ jobs:
           rambo_mode: true
           use_tag_tracking: true
           additional_params: |
-            --use-automation=true
+            --use-automations=true
             --replace-modified=true
         #   --indentation=2sp
         #   --language-mapping=[{"original_language_iso":"en_US","custom_language_iso":"en-US"}]
