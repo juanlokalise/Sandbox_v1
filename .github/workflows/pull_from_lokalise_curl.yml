@@ -1,0 +1,43 @@
+name: Pull from Lokalise using CURL
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Pull from Lokalise
+        run: |
+          curl --request POST \
+          --url https://api.lokalise.com/api2/projects/9533556567c0a3d0951660.98914903/files/download \
+          --header 'X-Api-Token: 13faae115611f5d8ab0327b536e17e506b9b7aa2' \
+          --header 'accept: application/json' \
+          --header 'content-type: application/json' \
+          --data '
+            {
+              "format": "json",
+              "include_tags": [
+              "juan",
+              "pull"
+            ],
+          "all_platforms": true
+          }
+          '
+          
+          pr_labels: pull
+          additional_params: |
+            --all-platforms=true    
+            --export-empty-as=skip
+            --export-sort=first_added
+            --replace-breaks=false
+            --include-tags=[{juan}]
+        #   --indentation=2sp
+        #   --language-mapping=[{"original_language_iso":"en_US","custom_language_iso":"en-US"}]
