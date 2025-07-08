@@ -25,7 +25,6 @@ jobs:
           rambo_mode: true
           use_tag_tracking: true
           additional_params: |
-            --replace-breaks=false
             --use-automation=true
             --replace-modified=true
         #   --indentation=2sp
