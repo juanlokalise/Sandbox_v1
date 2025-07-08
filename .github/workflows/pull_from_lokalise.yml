@@ -25,7 +25,6 @@ jobs:
           flat_naming: true
           always_pull_base: true
           git_commit_message: "my commit message!"
-          force_push: true
           additional_params: |
             --export-empty-as=skip
             --export-sort=first_added
