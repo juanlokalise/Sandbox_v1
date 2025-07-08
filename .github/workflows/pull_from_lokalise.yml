@@ -1,6 +1,7 @@
 name: Pull from Lokalise
 
 on:
+  push:
   workflow_dispatch:
 
 jobs:
