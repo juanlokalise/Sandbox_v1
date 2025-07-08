@@ -27,6 +27,7 @@ jobs:
           git_commit_message: my commit message!
           pr_labels: pull
           additional_params: |
+            --all-platforms=true    
             --export-empty-as=skip
             --export-sort=first_added
             --replace-breaks=false
