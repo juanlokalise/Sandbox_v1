@@ -26,6 +26,7 @@ jobs:
             --export-sort=first_added
             --replace-breaks=false
             --use-automation=true
+            --replace-modified=true
         #   --indentation=2sp
         #   --language-mapping=[{"original_language_iso":"en_US","custom_language_iso":"en-US"}]
 
