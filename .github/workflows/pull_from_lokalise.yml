@@ -25,6 +25,7 @@ jobs:
           file_format: properties
           flat_naming: true
           always_pull_base: true
+          skip_original_filenames: true
           git_commit_message: my commit message!
           pr_labels: pull
           skip_include_tags: true
