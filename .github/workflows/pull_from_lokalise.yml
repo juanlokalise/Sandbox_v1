@@ -27,6 +27,7 @@ jobs:
           always_pull_base: true
           git_commit_message: my commit message!
           pr_labels: pull
+          skip_include_tags: true
           additional_params: |
             --all-platforms=true    
             --export-empty-as=skip
