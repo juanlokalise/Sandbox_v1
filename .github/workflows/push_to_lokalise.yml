@@ -13,7 +13,7 @@ jobs:
           fetch-depth: 0
 
       - name: Push files to Lokalise
-        uses: lokalise/lokalise-push-action@v3.6.0
+        uses: lokalise/lokalise-push-action@v3.8.1
         with:
           api_token: 13faae115611f5d8ab0327b536e17e506b9b7aa2
           project_id: 9533556567c0a3d0951660.98914903
