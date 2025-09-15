@@ -22,7 +22,7 @@ jobs:
           translations_path: |
             g11n/data/src/main/res/values
           base_lang: en
-          file_format: XML
+          file_format: xml
           always_pull_base: true
           git_commit_message: my commit message!
           pr_labels: pull
