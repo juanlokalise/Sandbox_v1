@@ -17,9 +17,10 @@ jobs:
         with:
           api_token: 0f39cd8d7efadd7bcf83ec8ac48e3e062a32a119
           project_id: 9533556567c0a3d0951660.98914903
-          translations_path: en
+          translations_path: |
+            g11n/data/src/main/res/values/strings
           base_lang: en
-          file_format: yaml
+          file_format: xml
           flat_naming: true
           rambo_mode: true
           use_tag_tracking: true
