@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <!-- General API messages -->
+  <string name="api.success">La solicitud de API fue exitosa.</string>
+  <string name="api.failure">La solicitud de la API ha fallado. Por favor, inténtelo de nuevo.</string>
+  <string name="api.loading">Carga de datos desde la API...</string>
+  <!-- Placeholders for dynamic API-related content -->
+  <string name="api.request.endpoint">Solicitud ent al punto final: %1$s.</string>
+  <string name="api.request.duration">La solicitud tardó %1$s milisegundos.</string>
+  <string name="api.response.status">Estado recibido: %1$s de la API.</string>
+  <!-- Plurals for API items -->
+  <string name="api.items.fetched">La API devolvió %1$s artículo(s).</string>
+  <string name="api.errors.count">Se produjo %1$s error(es) al procesar la solicitud de API.</string>
+  <string name="api.requests.pending">Tiene %1$s solicitudes de API pendientes.</string>
+  <!-- Placeholders with universal formatting -->
+  <string name="api.authentication.success">El usuario %1$s se autenticó exitosamente.</string>
+  <string name="api.authentication.failure">Error de autenticación del usuario %1$s. Error: %1$s.</string>
+  <string name="api.data.received">Se recibieron %1$s puntos de datos de la API.</string>
+  <!-- Error messages for APIs -->
+  <string name="api.error.timeout">La solicitud de API expiró después de %1$s segundos.</string>
+  <string name="api.error.network">Se produjo un error de red al conectarse a %1$s.</string>
+  <string name="api.error.invalidResponse">La API devolvió una respuesta no válida. Verifique el formato %1$s.</string>
+  <!-- General API state messages -->
+  <string name="api.retrying">Reintentando la solicitud de API... Intento %1$s.</string>
+  <string name="api.limit.exceeded">Se ha superado el límite de velocidad de la API. Espere y vuelva a intentarlo más tarde.</string>
+  <string name="api.unauthorized">No tienes autorización para acceder a esta API. ¡Comprueba tus credenciales AHORA MISMO! JUANITO</string>
+  <string name="this_key_is_not_pulled">GHA no extraerá esta clave. </string>
+</resources>
