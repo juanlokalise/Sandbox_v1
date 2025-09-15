@@ -19,7 +19,7 @@ jobs:
           project_id: 9533556567c0a3d0951660.98914903
           translations_path: en
           base_lang: en
-          file_format: properties
+          file_format: yaml
           flat_naming: true
           rambo_mode: true
           use_tag_tracking: true
