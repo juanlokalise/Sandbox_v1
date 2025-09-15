@@ -21,7 +21,6 @@ jobs:
             g11n/data/src/main/res/values/en/strings.xml
           base_lang: en
           file_format: xml
-          flat_naming: true
           rambo_mode: true
           additional_params: |
             --use-automations=true
