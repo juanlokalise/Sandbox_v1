@@ -1,4 +1,4 @@
-name: Pull from Lokalise
+name: Pull from Lokalise - XML
 
 on:
   push:
@@ -15,15 +15,14 @@ jobs:
           fetch-depth: 0
 
       - name: Pull from Lokalise
-        uses: lokalise/lokalise-pull-action@v3.9.0
+        uses: lokalise/lokalise-pull-action@v3.14.0
         with:
-          api_token: 13faae115611f5d8ab0327b536e17e506b9b7aa2
+          api_token: 0f39cd8d7efadd7bcf83ec8ac48e3e062a32a119
           project_id: 9533556567c0a3d0951660.98914903
           translations_path: |
-            src/main/resources/locales
+            g11n/data/src/main/res/values
           base_lang: en
-          file_format: properties
-          flat_naming: true
+          file_format: XML
           always_pull_base: true
           git_commit_message: my commit message!
           pr_labels: pull
