@@ -22,7 +22,6 @@ jobs:
           base_lang: en
           file_format: xml
           rambo_mode: true
-          use_tag_tracking: true
           additional_params: |
             --use-automations=true
             --replace-modified=true
